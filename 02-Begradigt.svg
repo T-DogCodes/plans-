@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="207"
-     inkscape:cy="538.5"
+     inkscape:zoom="11.313708"
+     inkscape:cx="424.13149"
+     inkscape:cy="161.17615"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -5603,7 +5603,10 @@
        sodipodi:open="true" /><path
        style="fill:#000080;stroke:#008000;stroke-width:0.02;stroke-dasharray:none;stroke-dashoffset:0.425"
        d="m 115.44156,227.85596 3.68767,3.68767"
-       id="path67" /></g><g
+       id="path67" /><path
+       style="fill:#000080;stroke:#008000;stroke-width:0.02;stroke-dashoffset:1.6063"
+       d="m 106,64.001864 h 1"
+       id="path46" /></g><g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Stationen"
