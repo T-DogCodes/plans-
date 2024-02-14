@@ -91,7 +91,7 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 #### Linie 4A
 **Zwischen:** Karlsplatz - Wittelsbachstraße
  * [ ] Karlsplatz - Wittelsbachstraße
-   * **Aktuell:** scharzenbergplatz - Löwengasse
+   * **Aktuell:** scharzenbergplatz - Wittelsbachstraße
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
 
