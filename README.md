@@ -137,10 +137,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 
 #### Linie 72A
 **Zwischen:** Hasenleiten - Gasometer
- * [ ] Hasenleiten - Gasometer
-   * **Aktuell:** Am Kanal, Hasenleitengasse - Gasometer
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Hasenleiten - Gasometer
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
 
 #### Linie 73A
 **Zwischen:** Simmering - Landwehrstraße
