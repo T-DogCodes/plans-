@@ -10,7 +10,7 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 
 ### Straßenbahn/Bus
  * **Linienstärke:** 0,4
- * **Innerste Kurve:** 2
+ * **Innerste Kurve:** 1.5
  * **Station-Blob:** 0.7
  * **INTER-Blob:**
    * **Hinausstehend:** 0.55
@@ -21,7 +21,7 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 
 ### U-Bahn / S-Bahn
  * **Linienstärke:** 0,7
- * **Innerste Kurve:** 3
+ * **Innerste Kurve:** 2.65
 
 ### Allgemein
  * **Abstand zwischen Linien:** 0.6
@@ -126,14 +126,14 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 #### Linie 71A
 **Zwischen:** Zentralfriedhof 3. Tor - Schwechat
  * [x] Zentralfriedhof 3. Tor - Schwechat
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
 
 #### Linie 71B
 **Zwischen:** Zentralfriedhof 3. Tor - Zentralfriedhof 9. Tor
  * [x] Zentralfriedhof 3. Tor - Zentralfriedhof 9. Tor
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
 
 #### Linie 72A
 **Zwischen:** Hasenleiten - Gasometer
