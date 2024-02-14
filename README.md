@@ -92,8 +92,8 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 **Zwischen:** Karlsplatz - Wittelsbachstraße
  * [ ] Karlsplatz - Wittelsbachstraße
    * **Aktuell:** scharzenbergplatz - Wittelsbachstraße
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
 
 #### Linie 11A
 **Zwischen:** Stadion *(Umstieg)*
@@ -149,10 +149,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 
 #### Linie 74A
 **Zwischen:** Stubentor - St. Marx
- * [ ] Stubentor - St. Marx
-   * **Aktuell:** Schleife St. Marx fehlt
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Stubentor - St. Marx
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
 
 #### Linie 76A
 **Zwischen:** Enkplatz, Grillgasse - Alberner Hafen
