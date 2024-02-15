@@ -32,126 +32,168 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 
 #### Linie 1
 **Zwischen:** Prater, Hauptallee - Schwedenplatz **und** Karlsplatz *(Umstieg)*
- * [ ] Prater Hauptallee - Schwedenplatz
-   * **Aktuell:** Löwengasse - Schwedenplatz
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Prater Hauptallee - Schwedenplatz
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
+
 
 #### Linie 2
 **Zwischen:** Schwedenplatz - Karlsplatz
- * [ ] Schwedenplatz - Karlsplatz
-   * **Aktuell:** Löwengasse - Schwarzenbergplatz
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Schwedenplatz - Karlsplatz
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 6
-**Zwischen:** Geiereckstraße - Quellenplatz
- * [ ] Geiereckstraße - Quellenplatz
-   * **Aktuell:** Noch gar nichts
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+**Zwischen:** Geiereckstraße - Absberggasse
+ * [x] Geiereckstraße - Absberggasse
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 11
-**Zwischen:** Kaiserebersdorf, Zinnergasse - Quellenplatz
- * [ ] Kaiserebersdorf, Zinnergasse - Quellenplatz
-   * **Aktuell:** Kaiserebersdorf, Zinnergasse - Enkplatz
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+**Zwischen:** Kaiserebersdorf, Zinnergasse - Absberggasse
+ * [x] Kaiserebersdorf, Zinnergasse - Absberggasse
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 18
 **Zwischen:** Schlachthausgasse - Hauptbahnhof
- * [ ] Schlachthausgasse - Hauptbahnhof
-   * **Aktuell:** Schlachthausgasse - Quartier Belvedere
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Schlachthausgasse - Hauptbahnhof
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 71
 **Zwischen:** Karlsplatz - Kaiserebersdorf, Zinnergasse
  * [x] Karlsplatz - Kaiserebersdorf, Zinnergasse
-    * **Aktuell:** Schwarzenbergplatz - Kaiserebersdorf, Zinnergasse
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie D
 **Zwischen:** Absberggasse - Karlsplatz
- * [ ] Absberggasse - Karlsplatz
-   * **Aktuell:** Quartier Belvedere - Scharzenbergplatz
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Absberggasse - Karlsplatz
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie O
 **Zwischen:** Quellenplatz - Praterstern
- * [ ] Quellenplatz - Praterstern
-   * **Aktuell:** Quartier Belvedere - Radezkyplatz 
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Quellenplatz - Praterstern
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 ### Bus
 
 #### Linie 4A
 **Zwischen:** Karlsplatz - Wittelsbachstraße
  * [ ] Karlsplatz - Wittelsbachstraße
-   * **Aktuell:** scharzenbergplatz - Wittelsbachstraße
- * [x] Korrekte Radien
- * [x] Korrekte Stationsblobs
+ * [ ] Korrekte Radien
+ * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 11A
-**Zwischen:** Stadion *(Umstieg)*
- * [ ] Stadion *(Umstieg)*
-   * **Aktuell:** Noch gar nichts
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+**Zwischen:** Stadion - Vorgartenstraße
+ * [x] Stadion - Vorgartenstraße
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
-#### Linie 14A
-**Zwischen:** Reumannplatz - Keplerplatz *(Out Of District)*
- * [ ] Reumannplatz - Keplerplatz
-   * **Aktuell:** Noch gar nichts
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+#### Linie 11B
+**Zwischen:** Hillerstraße - Vorgartenstraße
+ * [x] Hillerstraße - Vorgartenstraße
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 15A
 **Zwischen:** Enkplatz, Grillgasse - Grillgasse
- * [ ] Enkplatz, Grillgasse - Grillgasse
-   * **Aktuell:** Enkplatz - Am Kanal
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Enkplatz, Grillgasse - Grillgasse
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 69A
 **Zwischen:** Hauptbahnhof - Simmering
- * [ ] Hauptbahnhof - Simmering
-   * **Aktuell:** Am Kanal - Simmering
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Hauptbahnhof - Simmering
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 71A
 **Zwischen:** Zentralfriedhof 3. Tor - Schwechat
  * [x] Zentralfriedhof 3. Tor - Schwechat
  * [x] Korrekte Radien
  * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 71B
 **Zwischen:** Zentralfriedhof 3. Tor - Zentralfriedhof 9. Tor
  * [x] Zentralfriedhof 3. Tor - Zentralfriedhof 9. Tor
  * [x] Korrekte Radien
  * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [x] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 72A
 **Zwischen:** Hasenleiten - Gasometer
  * [x] Hasenleiten - Gasometer
  * [x] Korrekte Radien
  * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 73A
 **Zwischen:** Simmering - Landwehrstraße
  * [x] Simmering - Landwehrstraße
- * [ ] Korrekte Radien
- * [ ] Korrekte Stationsblobs
+ * [x] Korrekte Radien
+ * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 74A
 **Zwischen:** Stubentor - St. Marx
  * [x] Stubentor - St. Marx
  * [x] Korrekte Radien
  * [x] Korrekte Stationsblobs
+ * [x] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 76A
 **Zwischen:** Enkplatz, Grillgasse - Alberner Hafen
@@ -159,6 +201,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Haidestraße - Alberner Hafen
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 76B
 **Zwischen:** Enkplatz, Grillgasse - Alberner Hafen
@@ -166,6 +211,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Haidestraße - Alberner Hafen
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 77A
 **Zwischen:** Rennweg - Lusthaus
@@ -173,6 +221,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Rennweg - Schlachthausgasse
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 79A
 **Zwischen:** Donaumarina, Chrastekgasse - Kaiserebersdorf, Dreherstraße
@@ -180,6 +231,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Freudenauer Hafenbrücke - Kaiserebersdorf, Dreherstraße
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 79B
 **Zwischen:** Donaumarina, Chrastekgasse - Kaiserebersdorf, Dreherstraße
@@ -187,6 +241,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Margetinstraße - Kaiserebersdorf, Dreherstraße
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 80A
 **Zwischen:** Praterstern - Neu Marx
@@ -194,6 +251,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Schlachthausgasse - Neu Marx
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 #### Linie 82A 
 **Zwischen:** Praterstern - Krieau *(Out Of District)*
@@ -201,6 +261,9 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
    * **Aktuell:** Noch gar nichts
  * [ ] Korrekte Radien
  * [ ] Korrekte Stationsblobs
+ * [ ] Stationsnamen eingefügt
+ * [ ] Stationsnamen ausgerichtet
+ * [ ] Linienüberschneidungen hervorgehoben
 
 ### Schnellverbingung
 
