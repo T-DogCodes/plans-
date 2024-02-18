@@ -1,0 +1,112 @@
+  74A > 18 (St. Marx)
+  71 > S (Rennweg)
+  71 > O (Rennweg)
+  13A > 18 (HBF, QB)
+  13A > O (HBF, QB)
+  13A > S (HBF, QB)
+  18 > S (Fasangasse)
+  S > 1 (Radetzkyplatz)
+  S > O (Marxergasse) 
+  2 > 1 (Schwedenplatz)
+  1 > O (Radezkyplatz)
+
+
+
+
+  1 > U1 (Karlsplatz)
+  1 > U4 (Karlsplatz, Julius-Raab-Platz)
+  1 > O (Radezkyplatz)
+
+  2 > U1 (Karlsplatz)
+  2 > 1 (Schwedenplatz)
+  2 > U4 (Schwedenplatz)
+
+  4A > 59A (Karlsplatz)
+  4A > WLB (Karlsplatz)
+  4A > 62 (Karlsplatz)
+  4A > 1 (Karlsplatz)
+  4A > D (Schwarzenbergplatz)
+  4A > 71 (Schwarzenbergplatz)
+  4A > S (Ungargasse)
+  4A > 74A (Hinzerstraße)
+  4A > U3 (Rochusgasse)
+
+  5 > U2 (Praterstern)
+
+  5B > U2 (Praterstern)
+
+  13A > 18 (HBF, QB)
+  13A > O (HBF, QB)
+  13A > S (HBF, QB)
+
+  18 > S (Fasangasse)
+
+  59A > U1 (Karlsplatz)
+  59A > U4 (Karlsplatz)
+
+  62 > U1 (Karlsplatz)
+  62 > U4 (Karlsplatz)
+
+  71 > U1 (Karlsplatz)
+  71 > U4 (Schwarzenbergplatz)
+  71 > S (Rennweg)
+  71 > O (Rennweg)
+
+  72A > S60 (Hasenleiten)
+  72A > U3 (Gasometer)
+
+  73A > 71B (Kaiserebersdofer Friedhof)
+  73A > 79B (Jedletzbergstraße)
+
+  74A > 18 (St. Marx)
+
+  76B > 79A (Jedletzbergstraße)
+  76B > 79B (Jedletzbergstraße)
+
+  77A > U3 (Kardinal Nagl Platz, Hainburger Straße)
+
+  79A > 76A (Freudenauer Hafenbrücke)
+
+  79B > 76A (Alberner Hafenzfstr)
+
+  80A > 77A (Klaschkaweg)
+
+  82A > U1 (Harkortenstraße)
+  82A > U2 (Messe-Prater)
+
+  D > U1 (Karlsplatz)
+  D > U4 (Kschwarzenbergplatz)
+
+  O > U2 (Praterstern)
+  O > S (Rennweg, Quartier Belvedere)
+  O > 18 (Quartier Belvedere)
+
+  WLB > U1 (Karlsplatz)
+  WLB > U4 (Karlsplatz)
+
+  U3 > U1 (Stephansplatz)
+
+  S > 80A (Franzensbrücke)
+  S > 1 (Radetzkyplatz)
+  S > O (Marxergasse)
+  S > S7 (Rennweg)
+
+  S7 > 15A (Am Kanal)
+  S7 > 69A (Am Kanal)
+  S7 > 71A (Kaiserebersdorf)
+
+  S6080 > D (HBF Ost)
+  S6080 > 69A (Arsenal)
+  S6080 > 6 (Geiereckstraße)
+  S6080 > 11 (Geiereckstraße)
+
+  S60 > 15A (Swatoschgasse)
+
+  S80 > S7 (Am Kanal)
+  S80 > 72A (Kraftwerk Simmering)
+
+
+--  76A > 76B (Simoningplatz)
+--  76B > 76A (Enkplatz, Grillgassse)
+--  79B > 79A (Kaiserebersd Zinnergasse)
+--  79A > 79B (Etrichstraße, Hoeffgasse)
