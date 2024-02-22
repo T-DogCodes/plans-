@@ -1,0 +1,124 @@
+RoundedArrow-Single-Dir-Blob
+
+RoundedArrow-7-4-9
+ + Praterstern S (Rosa)
+ + (xx) Station Blob Kaiserebersdorf Friedhof
+
+RoundedArrow-7-4-9-7
+ + Praterstern S (Border)
+ + (xx) Station Blob Enkplatz, Gottschalkgasse
+
+RoundedArrow-7-4-9-7-9
+ + Rennweg S (Border)
+ + (!!) Station Blob St. Marx
+
+RoundedArrow-5-8-0-3
+RoundedArrow-Single-Dir-Blob
+ + Station Blob Kaiserebersdorf, Dreherstraße
+
+RoundedArrow-5-8-0-3-7
+ + Rennweg S (rosa)
+ + (!!) Station Blob Dreherstraße, Hoeffgasse
+
+RoundedArrow-7-4-9-7-9-5
+ + Station Blob Wällischgasse
+
+RoundedArrow-7-4-9-3
+ + Station Blob Baumgasse
+
+RoundedArrow-7-4-9-3-6
+ + Station Blob Viehmarktgasse
+
+RoundedArrow-7-4-9-3-6-0
+ + Praterstern 5B
+ + Nestroyplatz 5A
+ + (!!) Station Blob Oberzellergasse
+
+RoundedArrow-7-4-9-3-6-0-4
+ + Station Blob Kleistgasse
+
+RoundedArrow-7-4-9-3-9 
+ + Station Blob Löwengase
+
+RoundedArrow-7-4-9-3-6-0-1
+ + Praterstern U2
+ + (!!) Station Blob Quartier Belvedere
+
+RoundedArrow-5-8-0-3-7-9-6-8
+ + Station Blob Karlsplatz
+
+RoundedArrow-7-4-9-7-9-0
+ + Station Blob HBF Süd
+
+RoundedArrow-7-4-9-3-9-9
+ + Station Blob Klaschkaweg
+
+RoundedArrow-7-4-9-3-6-5
+ + Station Blob Elderschplatz
+
+RoundedArrow-7-4-9-3-9-4
+ + Station Blob Marathonweg
+
+RoundedArrow-7-4-9-3-9-4-9
+ + Station Blob Stadlauer Brücke
+
+RoundedArrow-7-4-9-3-9-4-6
+ + Station Blob Aspernallee
+
+RoundedArrow-5-8-0-3-7-9-9
+ + Station Blob Etrichstraße, Hoeffgasse
+
+RoundedArrow-5-8-0-3-7-2
+ + Schwedenplatu U4
+ + (!!) Station Blob Krausegasse
+
+RoundedArrow-5-8-0-3-7-2-6
+ + Station Blob Koplagasse
+
+RoundedArrow-5-8-0-3-7-2-2
+ + (xx) Station Blob Enkplatz, Gottschalkgasse 76AB
+
+RoundedArrow-7-4-9-3-9-2-6
+ + Station Blob Franzensbrücke
+
+RoundedArrow-7-4-9-5
+ + Praterstern O, 5
+
+RoundedArrow-7-4-9-3-6-0-8
+ + Schwedenplatz 2
+
+RoundedArrow-7-4-9-3-6-0-8-1
+ + Schwedenplatz 1
+
+RoundedArrow-5-8-0-3-7-2-0
+ + Stephansplatz U3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Replacement Statements:
+\n\s.*<tspan
+<tspan
+
+
+\n\s.*</text
+<text

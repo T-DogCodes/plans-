@@ -1,15 +1,22 @@
+
+  4A > 1 (Karlsplatz)
+  4A > 71 (Schwarzenbergplatz)
+  4A > Stam- (Ungargasse)
+  4A > 74A (Hinzerstraße)  74A > 18 (St. Marx)
   74A > 18 (St. Marx)
-  71 > S (Rennweg)
+  71 > Stam- (Rennweg)
   71 > O (Rennweg)
   13A > 18 (HBF, QB)
   13A > O (HBF, QB)
-  13A > S (HBF, QB)
-  18 > S (Fasangasse)
-  S > 1 (Radetzkyplatz)
-  S > O (Marxergasse) 
+  13A > Stamm- (HBF, QB)
+  18 > Stamm- (Fasangasse)
+  Stamm+ > 1 (Radetzkyplatz)
+  Stamm+ > O (Marxergasse) 
   2 > 1 (Schwedenplatz)
   1 > O (Radezkyplatz)
 
+  O > Stamm- (Rennweg, Quartier Belvedere)
+  O > 18 (Quartier Belvedere)
 
 
 
