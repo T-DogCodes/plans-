@@ -9,8 +9,8 @@
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="02-Begradigt_Ohne_Ränder.svg"
-   inkscape:export-filename="2024-02-25.pdf"
+   sodipodi:docname="Plan_3_11_Landstraße_Simmering.V24.02.svg"
+   inkscape:export-filename="Plan_3_11_Landstraße_Simmering.V24.02.pdf"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,15 +29,15 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
    showgrid="true"
-   inkscape:zoom="1"
-   inkscape:cx="253"
-   inkscape:cy="695.5"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="-15.909903"
+   inkscape:cy="235.113"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer7">
+   inkscape:current-layer="layer3">
     <inkscape:grid
    id="grid1"
    units="mm"
@@ -7502,7 +7502,7 @@
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:start;text-anchor:start;fill:#888888;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
        x="4.7018528"
        y="270.58005"
-       id="tspan149-5-9-1-9-1-0-5-4-2-2-8-7"></tspan><tspan
+       id="tspan149-5-9-1-9-1-0-5-4-2-2-8-7" /><tspan
        sodipodi:role="line"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:start;text-anchor:start;fill:#888888;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
        x="4.7018528"
@@ -15266,7 +15266,12 @@
    id="path75-3"
    sodipodi:nodetypes="cc"
    inkscape:label="71_Kaiserebersdorf, Zinnergasse_1" />
-    </g>
+    </g><path
+   style="display:inline;fill:#f091b0;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-2);paint-order:stroke markers fill"
+   d="m 45.182504,45.60718 -0.42894,-0.428941"
+   id="path138-5-7"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Pfeil Oper, Karlsplatz" />
     <g
    inkscape:groupmode="layer"
    id="layer52"
@@ -15686,11 +15691,6 @@
       
     </g>
     <path
-   style="display:inline;fill:#f091b0;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-2);paint-order:stroke markers fill"
-   d="m 45.182504,45.60718 -0.42894,-0.428941"
-   id="path138-5-7"
-   sodipodi:nodetypes="cc"
-   inkscape:label="Pfeil Oper, Karlsplatz" /><path
    style="display:inline;fill:#bf0808;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-5);paint-order:stroke markers fill"
    d="M 137.35,26.450684 V 26.000066"
    id="path114-2"
