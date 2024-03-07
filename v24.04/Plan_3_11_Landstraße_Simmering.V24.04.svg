@@ -29,15 +29,15 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
    showgrid="true"
-   inkscape:zoom="4"
-   inkscape:cx="167.25"
-   inkscape:cy="192.625"
+   inkscape:zoom="7.9999999"
+   inkscape:cx="475.0625"
+   inkscape:cy="441.5625"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer60">
+   inkscape:current-layer="layer8">
     <inkscape:grid
    id="grid1"
    units="mm"
@@ -1668,25 +1668,6 @@
    d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
    style="fill:context-stroke;fill-rule:evenodd;stroke:none"
    id="path1367-3-2-2-6-7-1-1-3-1" />
-    </marker><marker
-   style="overflow:visible"
-   id="RoundedArrow-7-4-9-3-6-0-8-1-4-0"
-   refX="0"
-   refY="0"
-   orient="auto-start-reverse"
-   inkscape:stockid="RoundedArrow"
-   markerWidth="1.6"
-   markerHeight="1.6"
-   viewBox="0 0 6.1347524 5.9304951"
-   inkscape:isstock="true"
-   inkscape:collect="always"
-   preserveAspectRatio="none"
-   markerUnits="userSpaceOnUse">
-      <path
-   transform="scale(0.7)"
-   d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
-   style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-   id="path1367-3-2-2-6-7-1-1-3-1-7" />
     </marker><marker
    style="overflow:visible"
    id="RoundedArrow-7-4-9-7-0"
@@ -4123,6 +4104,24 @@
    d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
    style="fill:context-stroke;fill-rule:evenodd;stroke:none"
    id="path1367-9-1-2-4-75-8-0" />
+    </marker><marker
+   style="overflow:visible"
+   id="RoundedArrow-Single-Dir-Blob-3"
+   refX="0"
+   refY="0"
+   orient="auto-start-reverse"
+   inkscape:stockid="RoundedArrow"
+   markerWidth="4"
+   markerHeight="4.1999998"
+   viewBox="0 0 6.1347524 5.9304951"
+   inkscape:isstock="true"
+   inkscape:collect="always"
+   preserveAspectRatio="none">
+      <path
+   transform="scale(0.7)"
+   d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+   style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+   id="path1367-9-1-2-4-2" />
     </marker></defs>
   <g
    inkscape:groupmode="layer"
@@ -6220,7 +6219,8 @@
    d="m 188.58177,297 v -19 -6.17396 H 127.17398 L 121.00003,278 v 19"
    id="path214"
    inkscape:label="Background_Bottom_Hoop"
-   sodipodi:nodetypes="cccccc" /><path
+   sodipodi:nodetypes="cccccc"
+   sodipodi:insensitive="true" /><path
    style="display:inline;fill:#e3dedb;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
    d="M 185.0001,297 V 16.000001 H 210 V 297 Z"
    id="path228"
@@ -6887,34 +6887,34 @@
    sodipodi:insensitive="true">
       <path
    style="fill:#eff5e8;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:normal"
-   d="m 65.500305,54.633963 c 0.0619,-0.445854 0.260974,-0.846082 0.726138,-0.961764 0.266724,-0.06633 0.621517,-0.0739 0.980993,0.254659 l 11.959574,11.95895 c 0.213511,0.391493 0.536637,0.74196 -1.1e-5,1.414224 L 68.759344,77.7071 c -0.241798,0.262144 -0.472598,0.227473 -0.707107,0.292899 h -1.551924 c -0.604114,-0.04161 -0.927369,-0.385805 -1,-1.000016 z"
+   d="m 66.500001,55.633608 c 0.0619,-0.445854 0.260974,-0.846082 0.726138,-0.961764 0.266724,-0.06633 0.621517,-0.0739 0.980993,0.254659 L 79.16701,65.885808 c 0.213511,0.391493 0.536637,0.74196 -1.1e-5,1.414224 l -8.407967,8.407497 c -0.241798,0.262144 -0.472598,0.227473 -0.707107,0.292899 l -2.551917,-4.12e-4 c -0.604114,-0.04161 -0.927369,-0.385805 -1,-1.000016 z"
    id="path195"
    sodipodi:nodetypes="cscccccccc"
    inkscape:label="Hintergrund" />
+      
       <path
+   style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:normal"
+   d="m 66.500008,75 -7e-6,-19.36639"
+   id="path192"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Border_8" /><path
    style="display:inline;fill:none;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-8-6-5-2-0-31-1-4-0-6"
    sodipodi:type="arc"
-   sodipodi:cx="76.999985"
-   sodipodi:cy="-66.500313"
+   sodipodi:cx="75"
+   sodipodi:cy="-67.500008"
    sodipodi:rx="1.0000139"
    sodipodi:ry="1"
    sodipodi:start="0"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="m 77.999999,-66.500313 a 1.0000139,1 0 0 1 -1.000014,1"
+   d="m 76.000014,-67.500008 a 1.0000139,1 0 0 1 -1.000014,1"
    sodipodi:open="true"
    transform="rotate(90)"
    inkscape:label="Border_7" />
       <path
    style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:normal"
-   d="m 65.500313,76.999983 -7e-6,-22.366018"
-   id="path192"
-   sodipodi:nodetypes="cc"
-   inkscape:label="Border_8" />
-      <path
-   style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:normal"
-   d="m 66.500313,77.999999 h 1.551925"
+   d="m 67.500008,76.000013 2.55233,10e-7"
    id="path191"
    sodipodi:nodetypes="cc"
    inkscape:label="Border_6" />
@@ -6922,20 +6922,20 @@
    style="display:inline;fill:none;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-8-6-5-2-0-31-1-4-0-6-6"
    sodipodi:type="arc"
-   sodipodi:cx="76.999985"
-   sodipodi:cy="68.052238"
+   sodipodi:cx="75"
+   sodipodi:cy="70.052338"
    sodipodi:rx="1.0000139"
    sodipodi:ry="1"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 77.999999,68.052238 a 1.0000139,1 0 0 1 -0.292898,0.707107"
+   d="m 76.000014,70.052338 a 1.0000139,1 0 0 1 -0.292897,0.707106"
    sodipodi:open="true"
    inkscape:label="Border_5"
    transform="matrix(0,1,1,0,0,0)" />
       <path
    style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:normal"
-   d="M 79.167001,67.300033 68.759345,77.707101"
+   d="m 79.167001,67.300033 -8.408262,8.407784"
    id="path194"
    sodipodi:nodetypes="cc"
    inkscape:label="Border_4" />
@@ -6956,7 +6956,7 @@
    transform="rotate(-45)" />
       <path
    style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:#eff5e8;stroke-width:0.0999999;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:normal"
-   d="M 79.167011,65.88581 67.207435,53.926858"
+   d="M 79.167011,65.88581 68.207118,54.926489"
    id="path193"
    sodipodi:nodetypes="cc"
    inkscape:label="Border_2" />
@@ -6964,14 +6964,14 @@
    style="display:inline;fill:none;stroke:#eff5e8;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-8-6-5-2-0-31-1-4-0-6-7"
    sodipodi:type="arc"
-   sodipodi:cx="-66.50032"
-   sodipodi:cy="-54.633965"
+   sodipodi:cx="-67.500015"
+   sodipodi:cy="-55.63361"
    sodipodi:rx="1.0000139"
    sodipodi:ry="1"
    sodipodi:start="0"
    sodipodi:end="2.3561945"
    sodipodi:arc-type="arc"
-   d="m -65.500306,-54.633965 a 1.0000139,1 0 0 1 -0.617326,0.92388 1.0000139,1 0 0 1 -1.089805,-0.216773"
+   d="m -66.500001,-55.63361 a 1.0000139,1 0 0 1 -0.617325,0.92388 1.0000139,1 0 0 1 -1.089806,-0.216773"
    sodipodi:open="true"
    transform="scale(-1)"
    inkscape:label="Border_1" />
@@ -7202,7 +7202,8 @@
    x="3.8677776"
    y="9.842226"
    id="text151724"
-   inkscape:label="Header-Text - Netzplan 3. und 11. Bezirk"><tspan
+   inkscape:label="Header-Text - Netzplan 3. und 11. Bezirk"
+   sodipodi:insensitive="true"><tspan
      sodipodi:role="line"
      id="tspan151722"
      style="font-style:italic;font-size:7.05556px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:0.3;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -7210,7 +7211,8 @@
      y="9.842226">Netzplan 3. und 11. Bezirk</tspan></text><g
    inkscape:groupmode="layer"
    id="layer6"
-   inkscape:label="Legende"><path
+   inkscape:label="Legende"
+   sodipodi:insensitive="true"><path
      style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
      d="M 5.3781516e-7,289.5 V 230 H 40.000001 v 59.5 z"
      id="path228-1-4-9"
@@ -8167,12 +8169,12 @@
    x="207.89365"
    y="294.36566"
    id="text151724-4"
-   inkscape:label="Header-Text - Netzplan 3. und 11. Bezirk"><tspan
+   inkscape:label="Datum"><tspan
      sodipodi:role="line"
      id="tspan151722-1"
      style="font-style:italic;font-size:3.52778px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:0.15;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
      x="207.89365"
-     y="294.36566">Feb. 2024</tspan></text></g>
+     y="294.36566">April 2024</tspan></text></g>
   <g
    inkscape:groupmode="layer"
    id="layer11"
@@ -8561,7 +8563,7 @@
    inkscape:label="U1_Südtiroler Platz, Hauptbahnhof_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#e2000e;stroke-width:0.700003;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="M 40.000008,86.500069 40.000022,103.8"
+   d="M 40.000005,80.530083 40.000022,103.8"
    id="path154-1-6-91"
    sodipodi:nodetypes="cc"
    inkscape:label="U1_Taubstummengasse_4" />
@@ -8569,20 +8571,20 @@
    style="display:inline;fill:none;stroke:#e2000e;stroke-width:0.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-0-9-4-0-6-1-6-9-6-6-6-9"
    sodipodi:type="arc"
-   sodipodi:cx="-86.5"
+   sodipodi:cx="-80.530083"
    sodipodi:cy="-42.650005"
    sodipodi:rx="2.6500001"
    sodipodi:ry="2.6500001"
    sodipodi:start="0.78539816"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="M -84.626167,-40.776172 A 2.6500001,2.6500001 0 0 1 -86.5,-40.000005"
+   d="m -78.65625,-40.776172 a 2.6500001,2.6500001 0 0 1 -1.873833,0.776167"
    sodipodi:open="true"
    transform="matrix(0,-1,-1,0,0,0)"
    inkscape:label="U1_Taubstummengasse_3" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#e2000e;stroke-width:0.700001;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 42.225682,83.173819 -1.44951,1.452349"
+   d="m 42.22568,77.203896 -1.44951,1.452349"
    id="path154-1-6-91-0-2"
    sodipodi:nodetypes="cc"
    inkscape:label="U1_Taubstummengasse_2" />
@@ -8590,20 +8592,20 @@
    style="display:inline;fill:none;stroke:#e2000e;stroke-width:0.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-0-9-4-0-6-1-6-9-6-6-6-9-8"
    sodipodi:type="arc"
-   sodipodi:cx="81.301819"
+   sodipodi:cx="75.331902"
    sodipodi:cy="40.350018"
    sodipodi:rx="2.6500001"
    sodipodi:ry="2.6500001"
    sodipodi:start="0.78539816"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="m 83.175652,42.223851 a 2.6500001,2.6500001 0 0 1 -1.873833,0.776167"
+   d="m 77.205735,42.223851 a 2.6500001,2.6500001 0 0 1 -1.873833,0.776167"
    sodipodi:open="true"
    transform="matrix(0,1,1,0,0,0)"
    inkscape:label="U1_Taubstummengasse_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#e2000e;stroke-width:0.700004;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 43.000013,65.047791 5e-6,16.254029"
+   d="m 43.000013,65.047791 5e-6,10.284111"
    id="path154-1-6-91-4"
    sodipodi:nodetypes="cc"
    inkscape:label="U1_Karlsplatz_2" />
@@ -8862,17 +8864,17 @@
    inkscape:label="WLB"
    style="display:inline">
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
+   style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="m 50.798711,59.708641 -4.37524,4.375242"
    id="path253"
    inkscape:label="Linienhervorhebung_Oper_3" />
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
+   style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="M 50.798711,56.173106 49.2233,54.597695"
    id="path252"
    inkscape:label="Linienhervorhebung_Oper_1" />
       <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-2-6-2"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002706"
@@ -8887,16 +8889,16 @@
    transform="rotate(-45)"
    inkscape:label="Linienhervorhebung_Oper_2" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-1-4-0-8-6);paint-order:stroke markers fill"
-   d="m 25,72.062001 -3.329061,-3.5e-5"
+   d="m 23.914936,95.097954 -2.445883,-1.2e-5"
    id="path138-5-9-4-3-1-9"
    sodipodi:nodetypes="cc"
    inkscape:label="WLB_Karlsplatz_3" /><path
-   style="display:inline;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
+   style="display:none;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
    d="M 37.823849,72.062001 H 25"
    id="path115"
    inkscape:label="WLB_Karlsplatz_2"
    sodipodi:nodetypes="cc" /><path
-   style="display:inline;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-5-6"
    sodipodi:type="arc"
    sodipodi:cx="70.562004"
@@ -8911,13 +8913,13 @@
    inkscape:label="WLB_Karlsplatz_1"
    transform="matrix(0,1,1,0,0,0)" />
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#245d91;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;fill-opacity:1;stroke:#245d91;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    d="M 50.798715,59.708642 38.884509,71.622661"
    id="path76-9-6-1-4-6-4-4-3-3"
    sodipodi:nodetypes="cc"
    inkscape:label="WLB_Oper_3" />
       <path
-   style="display:inline;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-2-6"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002706"
@@ -8932,7 +8934,7 @@
    transform="rotate(-45)"
    inkscape:label="WLB_Oper_2" />
       <path
-   style="fill:none;fill-opacity:1;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   style="display:none;fill:none;fill-opacity:1;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
    d="M 50.798711,56.173106 49.197066,54.571459"
    id="path237"
    inkscape:label="WLB_Oper_1" />
@@ -8942,73 +8944,59 @@
    id="layer17"
    inkscape:label="D"
    style="display:inline">
+      
+      
       <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-   d="m 49.78101,50.827779 3.16167,3.161581"
-   id="path102"
-   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_4" />
-      <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-3-4-0-3"
-   sodipodi:type="arc"
-   sodipodi:cx="51.514488"
-   sodipodi:cy="-55.417553"
-   sodipodi:rx="3.5"
-   sodipodi:ry="3.5"
-   sodipodi:start="0"
-   sodipodi:end="0.78539816"
-   sodipodi:arc-type="arc"
-   d="m 55.014488,-55.417553 a 3.5,3.5 0 0 1 -1.025126,2.474874"
-   sodipodi:open="true"
-   transform="rotate(90)"
-   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_3" />
-      <path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 49.708593,55.999705 3.009636,5.3e-5"
+   id="path272"
+   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_2" /><path
    style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="M 64.000115,63.310046 V 58.270347"
    id="path97"
    inkscape:label="Linienhervorhebung_Quartier_Belvedere_2" />
+      
+      
+      
+      
       <path
-   style="fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="m 52.927777,53.974546 -8.48526,-8.485262"
-   id="path234"
-   inkscape:label="D_Schwarzenbergplatz_4" />
-      <path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   d="M 44.595344,54.681652 37.975805,48.062027"
+   id="path235-5"
+   inkscape:label="D_Schwarzenbergplatz_4"
+   sodipodi:nodetypes="cc" /><path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-3-4-0"
+   id="path42-7-2-26-1-6-2-8-9-7-8-3-4-0-6"
    sodipodi:type="arc"
    sodipodi:cx="51.499672"
-   sodipodi:cy="-55.402649"
-   sodipodi:rx="3.5"
-   sodipodi:ry="3.5"
+   sodipodi:cy="-47.777325"
+   sodipodi:rx="4.5"
+   sodipodi:ry="4.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 54.999672,-55.402649 a 3.5,3.5 0 0 1 -1.025126,2.474874"
+   d="m 55.999672,-47.777325 a 4.5,4.5 0 0 1 -1.31802,3.181981"
    sodipodi:open="true"
    transform="rotate(90)"
-   inkscape:label="D_Schwarzenbergplatz_3" />
-      <path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 62.500006,54.999999 -7.097518,-3.26e-4"
-   id="path50"
-   sodipodi:nodetypes="cc"
-   inkscape:label="D_Schwarzenbergplatz_2" />
-      <path
+   inkscape:label="D_Schwarzenbergplatz_3" /><path
+   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 47.777326,55.99967 14.722682,2.65e-4"
+   id="path209"
+   inkscape:label="D_Schwarzenbergplatz_2" /><path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-5-2-9-8-2-3-0-1-2-7"
+   id="path42-7-2-5-2-9-8-2-3-0-1-2-7-73"
    sodipodi:type="arc"
-   sodipodi:cx="-56.5"
-   sodipodi:cy="62.500004"
+   sodipodi:cx="-57.5"
+   sodipodi:cy="62.500008"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="m -55,62.500004 a 1.5,1.5 0 0 1 -1.5,1.5"
+   d="m -56,62.500008 a 1.5,1.5 0 0 1 -1.5,1.5"
    sodipodi:open="true"
    transform="rotate(-90)"
-   inkscape:label="D_Schwarzenbergplatz_1" />
-      <path
+   inkscape:label="D_Schwarzenbergplatz_1" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    d="M 64,92.028379 64.000372,77.25656 64.000001,57"
    id="path76-9-6-1-4-6-4"
@@ -9030,7 +9018,7 @@
    inkscape:label="D_Quartier_Belvedere_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400002;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="m 46.43934,110.21038 6.819224,-6.81763 10.302094,-10.303709"
+   d="M 46.439338,110.21037 53.258563,103.39274 63.56066,93.089041"
    id="path76-9-6-1-4-7-8-4"
    sodipodi:nodetypes="ccc"
    inkscape:label="D_Alfred-Adler-Straße_2" />
@@ -9986,12 +9974,12 @@
    style="display:inline">
       
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
+   style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="M 41.360067,70.5615 51.505818,60.415747"
    id="path266"
    inkscape:label="Linienhervorhebung_Oper_3"
    sodipodi:nodetypes="cc" /><path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-2-6-8"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002729"
@@ -10006,17 +9994,17 @@
    transform="rotate(-45)"
    inkscape:label="Linienhervorhebung_Oper_2" />
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
+   style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="m 50.854379,54.814566 0.651439,0.651436"
    id="path264"
    inkscape:label="Linienhervorhebung_Oper_1" />
       <path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
+   style="display:none;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
    d="M 32.823685,78.062348 H 22.427532"
    id="path115-5"
    inkscape:label="62_Karlsplatz_2"
    sodipodi:nodetypes="cc" /><path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-6-5-2-6-1-8"
    sodipodi:type="arc"
    sodipodi:cx="75.562347"
@@ -10030,12 +10018,12 @@
    sodipodi:open="true"
    transform="matrix(0,1,1,0,0,0)"
    inkscape:label="62_Karlsplatz_1" /><path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    d="M 51.505818,60.415749 34.591453,77.330115"
    id="path76-9-6-1-4-6-4-4-3-1"
    sodipodi:nodetypes="cc"
    inkscape:label="62_Oper_3" /><path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-2-6-8-5"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002725"
@@ -10051,7 +10039,7 @@
    inkscape:label="62_Oper_2" />
       
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   style="display:none;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
    d="M 51.505818,55.466002 49.982762,53.942947"
    id="path236"
    inkscape:label="62_Oper_1" />
@@ -10063,11 +10051,11 @@
    style="display:inline">
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600002;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
-   d="m 42.225594,66.867484 7.87375,-7.87375"
+   d="m 40.528574,63.873464 7.87375,-7.87375"
    id="path259"
    inkscape:label="Linienhervorhebung_Oper_3" />
       <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-7"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002729"
@@ -10082,7 +10070,7 @@
    transform="rotate(-45)"
    inkscape:label="Linienhervorhebung_Oper_2" />
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
+   style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="m 49.306564,56.095753 0.78504,0.784463"
    id="path257"
    inkscape:label="Linienhervorhebung_Oper_1" />
@@ -10093,7 +10081,7 @@
    sodipodi:nodetypes="cc"
    inkscape:label="59A_Karlsplatz_3" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="M 40.752804,67.718885 25,67.71882"
+   d="M 36.061649,67.718887 25,67.71882"
    id="path76-9-6-1-4-6-4-4-3-7-6"
    sodipodi:nodetypes="cc"
    inkscape:label="59A_Karlsplatz_2" />
@@ -10101,24 +10089,24 @@
    style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-0-9-5-58-0-8-6-0-9-2-6-0"
    sodipodi:type="arc"
-   sodipodi:cx="40.752804"
+   sodipodi:cx="36.061649"
    sodipodi:cy="66.218887"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0.78539816"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="m 41.813464,67.279547 a 1.5,1.5 0 0 1 -1.06066,0.43934"
+   d="m 37.122309,67.279547 a 1.5,1.5 0 0 1 -1.06066,0.43934"
    sodipodi:open="true"
    inkscape:label="59A_Karlsplatz_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="m 50.091604,59.001534 -8.278141,8.278011"
+   d="M 48.402324,55.999714 37.122309,67.279547"
    id="path76-9-6-1-4-6-4-4-3-7"
    sodipodi:nodetypes="cc"
    inkscape:label="59A_Oper_3" />
       <path
-   style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-7-3"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002729"
@@ -10133,8 +10121,8 @@
    transform="rotate(-45)"
    inkscape:label="59A_Oper_2" />
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 50.082828,56.872017 48.530301,55.319489"
+   style="display:none;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   d="M 50.082827,56.872017 48.530301,55.319489"
    id="path238"
    inkscape:label="59A_Oper_1" />
     </g>
@@ -13171,7 +13159,7 @@
    inkscape:label="S80_Haidestraße_2" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#009ee3;stroke-width:0.700002;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 103.34032,175.85 13.80468,0"
+   d="M 103.34032,175.85 H 117.145"
    id="path89-4-3"
    sodipodi:nodetypes="cc"
    inkscape:label="S80_Haidestraße_1" />
@@ -13788,67 +13776,100 @@
    id="path62"
    inkscape:label="Linienhervorhebung_St. Marx_2" />
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-1-4-0);paint-order:stroke markers fill"
-   d="M 23.270451,93.953392 21.670939,93.95"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:stroke markers fill"
+   d="m 22.854536,90.958301 -1.183597,-0.0017"
    id="path138-5-9-4-3"
    sodipodi:nodetypes="cc"
    inkscape:label="18_Hauptbahnhof_5" /><path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-0-7-6"
    sodipodi:type="arc"
-   sodipodi:cx="-95.453392"
-   sodipodi:cy="23.270451"
-   sodipodi:rx="1.5"
-   sodipodi:ry="1.5"
+   sodipodi:cx="-93.458298"
+   sodipodi:cy="22.854536"
+   sodipodi:rx="2.5"
+   sodipodi:ry="2.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m -93.953392,23.270451 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   d="m -90.958298,22.854536 a 2.5,2.5 0 0 1 -0.732233,1.767767"
    sodipodi:open="true"
    transform="rotate(-90)"
    inkscape:label="18_Hauptbahnhof_3" /><path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.399999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
-   d="M 25.991936,96.053561 24.331112,94.392733"
+   d="M 26.992162,94.060635 24.622303,91.690531"
    id="path148"
    sodipodi:nodetypes="cc"
    inkscape:label="18_Hauptbahnhof_2" /><path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-0-7-9"
    sodipodi:type="arc"
-   sodipodi:cx="94.992905"
-   sodipodi:cy="-27.052595"
+   sodipodi:cx="92.999977"
+   sodipodi:cy="-28.05282"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 96.492905,-27.052595 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   d="m 94.499977,-28.05282 a 1.5,1.5 0 0 1 -0.43934,1.06066"
    sodipodi:open="true"
    transform="rotate(90)"
    inkscape:label="18_Hauptbahnhof_1" /><path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="m 27.052595,96.492905 43.447515,5.48e-4"
+   style="display:inline;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-0-7-9-8-7"
+   sodipodi:type="arc"
+   sodipodi:cx="92.999977"
+   sodipodi:cy="-28.117613"
+   sodipodi:rx="3.5"
+   sodipodi:ry="3.5"
+   sodipodi:start="0"
+   sodipodi:end="0.64577182"
+   sodipodi:arc-type="arc"
+   d="m 96.499977,-28.117613 a 3.5,3.5 0 0 1 -0.704776,2.106353"
+   sodipodi:open="true"
+   transform="rotate(90)"
+   inkscape:label="18_Hauptbahnhof_1" /><path
+   style="display:inline;fill:none;stroke:#245d91;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-0-7-9-8-7-6"
+   sodipodi:type="arc"
+   sodipodi:cx="-98.597954"
+   sodipodi:cy="23.914936"
+   sodipodi:rx="3.5"
+   sodipodi:ry="3.5"
+   sodipodi:start="0"
+   sodipodi:end="0.64577182"
+   sodipodi:arc-type="arc"
+   d="m -95.097954,23.914936 a 3.5,3.5 0 0 1 -0.704776,2.106353"
+   sodipodi:open="true"
+   inkscape:label="18_Hauptbahnhof_1"
+   transform="rotate(-90)" /><path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#245d91;stroke-width:0.4;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   d="m 28.117613,96.499977 32.032597,4.4e-5"
    id="path231"
+   inkscape:label="18_Heinrich-Drimml-Platz_2"
+   sodipodi:nodetypes="cc" /><path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   d="m 28.05282,94.499977 42.447287,1.07e-4"
+   id="path231-48"
    inkscape:label="18_Heinrich-Drimml-Platz_2"
    sodipodi:nodetypes="cc" />
       <path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-4"
    sodipodi:type="arc"
-   sodipodi:cx="-97.993454"
+   sodipodi:cx="-96.000084"
    sodipodi:cy="70.500107"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="m -96.493454,70.500107 a 1.5,1.5 0 0 1 -1.5,1.5"
+   d="m -94.500084,70.500107 a 1.5,1.5 0 0 1 -1.5,1.5"
    sodipodi:open="true"
    transform="rotate(-90)"
    inkscape:label="18_Heinrich-Drimml-Platz_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="m 72.000099,115.50004 3.52e-4,-7.15903 -3.44e-4,-10.347555"
+   d="m 72.000099,115.50004 3.52e-4,-7.15903 -3.44e-4,-12.340926"
    id="path76-9-6-1-4-6"
    sodipodi:nodetypes="ccc"
    inkscape:label="18_St. Marx_2" />
@@ -13894,7 +13915,54 @@
    id="path76-9-6-1-4-5"
    sodipodi:nodetypes="ccc"
    inkscape:label="18_Schlachthausgasse" />
-    </g>
+    </g><g
+   inkscape:groupmode="layer"
+   id="layer64"
+   inkscape:label="1-"
+   style="display:inline"><path
+     style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:stroke markers fill"
+     d="m 22.854536,91.958301 -1.183597,-0.0017"
+     id="path138-5-9-4-3-4"
+     sodipodi:nodetypes="cc"
+     inkscape:label="1_Hauptbahnhof_4" /><path
+     style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-0-7-6-6"
+     sodipodi:type="arc"
+     sodipodi:cx="-93.458298"
+     sodipodi:cy="22.854536"
+     sodipodi:rx="1.5"
+     sodipodi:ry="1.5"
+     sodipodi:start="0"
+     sodipodi:end="0.78539816"
+     sodipodi:arc-type="arc"
+     d="m -91.958298,22.854536 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+     sodipodi:open="true"
+     transform="rotate(-90)"
+     inkscape:label="1_Hauptbahnhof_3" /><path
+     style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 23.915196,92.397638 2.369858,2.370107"
+     id="path152"
+     sodipodi:nodetypes="cc"
+     inkscape:label="1_Hauptbahnhof_2" /><path
+     style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-0-7-9-8"
+     sodipodi:type="arc"
+     sodipodi:cx="92.999977"
+     sodipodi:cy="-28.05282"
+     sodipodi:rx="2.5"
+     sodipodi:ry="2.5"
+     sodipodi:start="0"
+     sodipodi:end="0.78539816"
+     sodipodi:arc-type="arc"
+     d="m 95.499977,-28.05282 a 2.5,2.5 0 0 1 -0.732233,1.767767"
+     sodipodi:open="true"
+     transform="rotate(90)"
+     inkscape:label="1_Hauptbahnhof_1" /><path
+     style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+     d="M 28.05282,95.499977 63.500015,95.5"
+     id="path231-4"
+     inkscape:label="1_Schloss_Belvedere_2"
+     sodipodi:nodetypes="cc" /></g>
     <g
    inkscape:groupmode="layer"
    id="layer46"
@@ -13902,7 +13970,7 @@
    style="display:inline">
       <path
    style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;paint-order:stroke markers fill"
-   d="m 54.561078,98.218305 2.279917,-2.279917"
+   d="m 54.561078,98.218307 4.136328,-4.136312"
    id="path57"
    inkscape:label="Linienhervorhebung_Quartier Belvedere_2" />
       <path
@@ -13980,8 +14048,8 @@
    transform="matrix(0,1,1,0,0,0)"
    inkscape:label="O_Quartier Belvedere_3" />
       <path
-   style="fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="m 54.418454,98.360931 2.421589,-2.42159"
+   style="fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   d="m 54.418456,98.360935 4.421572,-4.421572"
    id="path239"
    sodipodi:nodetypes="cc"
    inkscape:label="O_Quartier Belvedere_2" />
@@ -13989,41 +14057,41 @@
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8"
    sodipodi:type="arc"
-   sodipodi:cx="-97"
-   sodipodi:cy="-57.900703"
+   sodipodi:cx="-95.000023"
+   sodipodi:cy="-59.900688"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m -95.5,-57.900703 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   d="m -93.500023,-59.900688 a 1.5,1.5 0 0 1 -0.43934,1.06066"
    sodipodi:open="true"
    transform="matrix(0,-1,-1,0,0,0)"
    inkscape:label="O_Quartier Belvedere_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="M 57.900703,95.500001 H 70.305107"
-   id="path76-9-6-1-4-7-8"
+   d="M 59.900688,93.500023 H 72.305092"
+   id="path76-9-6-1-4-7-8-3"
    sodipodi:nodetypes="cc"
    inkscape:label="O_Landstraße, Bahnhof Wien Mitte_3" />
       <path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8"
    sodipodi:type="arc"
-   sodipodi:cx="94"
-   sodipodi:cy="70.305107"
+   sodipodi:cx="92.000023"
+   sodipodi:cy="72.305092"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 95.5,70.305107 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   d="m 93.500023,72.305092 a 1.5,1.5 0 0 1 -0.43934,1.06066"
    sodipodi:open="true"
    transform="matrix(0,1,1,0,0,0)"
    inkscape:label="O_Landstraße, Bahnhof Wien Mitte_2" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 71.365767,95.060661 4.306723,-4.306724 29.3146,-29.314595"
+   d="m 73.365752,93.060683 2.000138,-2.000139 29.6212,-29.621199"
    id="path100-6-3"
    sodipodi:nodetypes="ccc"
    inkscape:label="O_Landstraße, Bahnhof Wien Mitte_1" />
@@ -14251,13 +14319,13 @@
    inkscape:label="1"
    style="display:inline">
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    d="M 52.212925,61.122856 33.884212,79.45128"
    id="path76-9-6-1-4-6-4-4-3-12"
    sodipodi:nodetypes="cc"
    inkscape:label="Linienhervorhebung_Oper_3" />
       <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-7-8-5"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002729"
@@ -14271,66 +14339,19 @@
    sodipodi:open="true"
    transform="rotate(-45)"
    inkscape:label="Linienhervorhebung_Oper_2" />
+      
+      
+      
+      
+      
+      
       <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 52.212925,54.758895 48.238756,50.784726"
-   id="path235"
-   inkscape:label="Linienhervorhebung_Oper_1" />
-      <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 96.051435,35.118797 113.2857,52.353059"
-   id="path215-2"
-   sodipodi:nodetypes="cc"
-   inkscape:label="Linienhervorhebung_HIZO_2" />
-      <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="m 120.97504,55.000011 9.52496,-1e-5"
-   id="path76-9-6-1-4-55-9-0-0-0"
-   sodipodi:nodetypes="cc"
-   inkscape:label="Linienhervorhebung_Hetzgasse_2" />
-      <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-5-9-7-0-4"
-   sodipodi:type="arc"
-   sodipodi:cx="-56.5"
-   sodipodi:cy="130.5"
-   sodipodi:rx="1.5"
-   sodipodi:ry="1.5"
-   sodipodi:start="0"
-   sodipodi:end="1.5707963"
-   sodipodi:arc-type="arc"
-   d="m -55,130.5 a 1.5,1.5 0 0 1 -1.5,1.5"
-   sodipodi:open="true"
-   transform="rotate(-90)"
-   inkscape:label="Linienhervorhebung_Hetzgasse_1" />
-      <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-5-1-9-4"
-   sodipodi:type="arc"
-   sodipodi:cx="79.499939"
-   sodipodi:cy="-134.36392"
-   sodipodi:rx="1.5"
-   sodipodi:ry="1.5"
-   sodipodi:start="0"
-   sodipodi:end="0.78539816"
-   sodipodi:arc-type="arc"
-   d="m 80.999939,-134.36392 a 1.5,1.5 0 0 1 -0.43934,1.06066"
-   sodipodi:open="true"
-   transform="rotate(90)"
-   inkscape:label="Linienhervorhebung_Wittelsbachstraße_1" />
-      <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 134.36392,80.999936 h 17.52604"
-   id="path76-9-6-1-4-55-9-4-7-3"
-   sodipodi:nodetypes="cc"
-   inkscape:label="Liniendekoration_Hauptallee" />
-      <path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
+   style="display:none;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers stroke fill"
    d="M 32.823685,79.06235 H 22.509384"
    id="path115-5-7"
    inkscape:label="1_Karlsplatz_2"
    sodipodi:nodetypes="cc" /><path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-6-5-2-6-1-8-7"
    sodipodi:type="arc"
    sodipodi:cx="75.562347"
@@ -14344,13 +14365,13 @@
    sodipodi:open="true"
    transform="matrix(0,1,1,0,0,0)"
    inkscape:label="1_Karlsplatz_1" /><path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    d="m 52.212925,61.122856 -16.9145,16.914231"
    id="path76-9-6-1-4-6-4-4-3"
    sodipodi:nodetypes="cc"
    inkscape:label="1_Oper_3" />
       <path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-7-8"
    sodipodi:type="arc"
    sodipodi:cx="-6.3002729"
@@ -14363,14 +14384,130 @@
    d="m -1.8002729,75.640503 a 4.5,4.5 0 0 1 -4.5,4.5"
    sodipodi:open="true"
    transform="rotate(-45)"
-   inkscape:label="1_Oper_2" />
+   inkscape:label="1_Oper_2" /><path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-5-2-9-8-2-3-0-1-2-4-0-3"
+   sodipodi:type="arc"
+   sodipodi:cx="63.500015"
+   sodipodi:cy="94"
+   sodipodi:rx="1.5"
+   sodipodi:ry="1.5"
+   sodipodi:start="0"
+   sodipodi:end="0.78539816"
+   sodipodi:arc-type="arc"
+   d="m 65.000015,94 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   inkscape:label="Linienhervorhebung_Schloss_Belvedere_1"
+   sodipodi:open="true" /><path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
+   d="m 65.000015,94.000007 1.58e-4,-35.706273"
+   id="path292"
+   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_1"
+   sodipodi:nodetypes="cc" /><path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 50.188153,54.999725 h 3.671091"
+   id="path270"
+   inkscape:label="Linienhervorhebung_Oper_3_B" />
+      
       <path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
+   d="M 96.051435,35.118797 113.2857,52.353059"
+   id="path215-2"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Linienhervorhebung_HIZO_2" /><path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   d="m 120.97504,55.000011 9.52496,-1e-5"
+   id="path76-9-6-1-4-55-9-0-0-0"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Linienhervorhebung_Hetzgasse_2" /><path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-5-9-7-0-4"
+   sodipodi:type="arc"
+   sodipodi:cx="-56.5"
+   sodipodi:cy="130.5"
+   sodipodi:rx="1.5"
+   sodipodi:ry="1.5"
+   sodipodi:start="0"
+   sodipodi:end="1.5707963"
+   sodipodi:arc-type="arc"
+   d="m -55,130.5 a 1.5,1.5 0 0 1 -1.5,1.5"
+   sodipodi:open="true"
+   transform="rotate(-90)"
+   inkscape:label="Linienhervorhebung_Hetzgasse_1" /><path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-5-1-9-4"
+   sodipodi:type="arc"
+   sodipodi:cx="79.499939"
+   sodipodi:cy="-134.36392"
+   sodipodi:rx="1.5"
+   sodipodi:ry="1.5"
+   sodipodi:start="0"
+   sodipodi:end="0.78539816"
+   sodipodi:arc-type="arc"
+   d="m 80.999939,-134.36392 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   sodipodi:open="true"
+   transform="rotate(90)"
+   inkscape:label="Linienhervorhebung_Wittelsbachstraße_1" /><path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   d="m 134.36392,80.999936 h 17.52604"
+   id="path76-9-6-1-4-55-9-4-7-3"
+   sodipodi:nodetypes="cc"
+   inkscape:label="Liniendekoration_Hauptallee" /><path
+   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-5-2-9-8-2-3-0-1-2-4-0"
+   sodipodi:type="arc"
+   sodipodi:cx="63.500015"
+   sodipodi:cy="94"
+   sodipodi:rx="1.5"
+   sodipodi:ry="1.5"
+   sodipodi:start="0"
+   sodipodi:end="1.5707963"
+   sodipodi:arc-type="arc"
+   d="m 65.000015,94 a 1.5,1.5 0 0 1 -1.5,1.5"
+   sodipodi:open="true"
+   inkscape:label="1_Schloss_Belvedere_1" /><path
+   style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400002;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   d="M 65.000015,94 65.00055,68.971953 65.000008,57.499458"
+   id="path76-9-6-1-4-5-7"
+   sodipodi:nodetypes="ccc"
+   inkscape:label="1_Schwarzenbergplatz_1" /><path
+   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-5-2-9-8-2-3-0-1-2-7"
+   sodipodi:type="arc"
+   sodipodi:cx="-57.5"
+   sodipodi:cy="62.500008"
+   sodipodi:rx="2.5"
+   sodipodi:ry="2.5"
+   sodipodi:start="0"
+   sodipodi:end="1.5707963"
+   sodipodi:arc-type="arc"
+   d="m -55,62.500008 a 2.5,2.5 0 0 1 -2.5,2.5"
+   sodipodi:open="true"
+   transform="rotate(-90)"
+   inkscape:label="1_Oper_4" /><path
+   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+   d="M 62.500004,54.999999 47.777326,54.999673"
+   id="path50"
+   sodipodi:nodetypes="cc"
+   inkscape:label="1_Oper_3" /><path
+   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-3-4-0"
+   sodipodi:type="arc"
+   sodipodi:cx="51.499672"
+   sodipodi:cy="-47.777325"
+   sodipodi:rx="3.5"
+   sodipodi:ry="3.5"
+   sodipodi:start="0"
+   sodipodi:end="0.78539816"
+   sodipodi:arc-type="arc"
+   d="m 54.999672,-47.777325 a 3.5,3.5 0 0 1 -1.025126,2.474874"
+   sodipodi:open="true"
+   transform="rotate(90)"
+   inkscape:label="1_Oper_2" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 52.212925,54.758895 43.692916,46.238886"
-   id="path235-5"
+   d="M 45.302451,53.974546 38.81766,47.489667"
+   id="path234"
    inkscape:label="1_Oper_1"
-   sodipodi:nodetypes="cc" />
-      <path
+   sodipodi:nodetypes="cc" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-1);paint-order:stroke markers fill"
    d="m 88.152558,27.841231 -1.266788,-7e-6"
    id="path138-5-9"
@@ -14482,7 +14619,18 @@
    sodipodi:nodetypes="cc"
    inkscape:label="1_Hauptallee" />
       
-    </g>
+    <path
+   style="fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   id="path245"
+   sodipodi:type="arc"
+   sodipodi:cx="64.523193"
+   sodipodi:cy="96.424088"
+   sodipodi:rx="0.010335286"
+   sodipodi:ry="0.0082682287"
+   sodipodi:start="0"
+   sodipodi:end="0.78539816"
+   sodipodi:arc-type="slice"
+   d="m 64.533529,96.424088 a 0.01033529,0.00826823 0 0 1 -0.003,0.0058 l -0.0073,-0.0058 z" /></g>
     <g
    inkscape:groupmode="layer"
    id="layer48"
@@ -14923,27 +15071,13 @@
    d="m 97.518462,38.000018 0.844098,0.844095"
    id="path114"
    inkscape:label="Linienhervorhebung_Stubentor_4" />
+      
+      
       <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-3-4-4"
-   sodipodi:type="arc"
-   sodipodi:cx="51.499882"
-   sodipodi:cy="-55.317818"
-   sodipodi:rx="1.5"
-   sodipodi:ry="1.5"
-   sodipodi:start="0"
-   sodipodi:end="0.78539816"
-   sodipodi:arc-type="arc"
-   d="m 52.999882,-55.317818 a 1.5,1.5 0 0 1 -0.43934,1.06066"
-   sodipodi:open="true"
-   transform="rotate(90)"
-   inkscape:label="Linienhervorhebung_Oper_2" />
-      <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 54.257158,52.560543 50.821785,49.125166"
-   id="path232-3"
-   inkscape:label="Linienhervorhebung_Oper_1" />
-      <path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 51.907942,52.999891 h 4.183724"
+   id="path261"
+   inkscape:label="Linienhervorhebung_Oper_1" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8);paint-order:stroke markers fill"
    d="M 97.079654,23.210216 V 22.603604"
    id="path138-5"
@@ -15014,7 +15148,7 @@
    inkscape:label="2_Stubentor_1" />
       <path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
-   d="M 99.044212,53.000001 55.317818,52.999883"
+   d="M 99.044211,53.000001 47.777326,52.999883"
    id="path50-8"
    sodipodi:nodetypes="cc"
    inkscape:label="2_Oper_3" />
@@ -15023,53 +15157,40 @@
    id="path42-7-2-26-1-6-2-8-9-7-8-3-4"
    sodipodi:type="arc"
    sodipodi:cx="51.499882"
-   sodipodi:cy="-55.317818"
+   sodipodi:cy="-47.777325"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 52.999882,-55.317818 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   d="m 52.999882,-47.777325 a 1.5,1.5 0 0 1 -0.43934,1.06066"
    sodipodi:open="true"
    transform="rotate(90)"
    inkscape:label="2_Oper_2" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 54.257158,52.560546 45.814214,44.117591"
+   d="M 46.716669,52.560546 40.274194,46.117974"
    id="path232"
-   inkscape:label="2_Oper_1" />
+   inkscape:label="2_Oper_1"
+   sodipodi:nodetypes="cc" />
     </g>
     <g
    inkscape:groupmode="layer"
    id="layer51"
    inkscape:label="71"
    style="display:inline">
+      
+      
+      
       <path
+   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.600001;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 50.99844,53.999741 h 4.779033"
+   id="path268"
+   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_2" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
-   d="m 51.37577,51.093371 2.174068,2.174065"
-   id="path293"
-   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_4" />
-      <path
-   style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-3-4-9"
-   sodipodi:type="arc"
-   sodipodi:cx="51.499668"
-   sodipodi:cy="-55.317604"
-   sodipodi:rx="2.5"
-   sodipodi:ry="2.5"
-   sodipodi:start="0"
-   sodipodi:end="0.78539816"
-   sodipodi:arc-type="arc"
-   d="m 53.999668,-55.317604 a 2.5,2.5 0 0 1 -0.732233,1.767767"
-   sodipodi:open="true"
-   transform="rotate(90)"
-   inkscape:label="Linienhervorhebung_Schwarzenbergplatz_3" />
-      <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
-   d="M 65.000173,63.391897 V 58.293734"
-   id="path292"
-   inkscape:label="Linienhervorhebung_Am_Heumarkt_2" />
-      <path
+   d="M 66.000173,63.392441 V 58.294278"
+   id="path292-3"
+   inkscape:label="Linienhervorhebung_Am_Heumarkt_2" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1;paint-order:stroke markers fill"
    d="m 80.346822,80.94507 2.213501,2.21353"
    id="path291"
@@ -15090,27 +15211,28 @@
    inkscape:label="Linienhervorhebung_Rennweg_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="m 53.549837,53.267435 -8.44274,-8.442733"
+   d="m 46.009348,53.267435 -6.44227,-6.44235"
    id="path233"
-   inkscape:label="71_Schwarzenbergplatz_4" />
+   inkscape:label="71_Schwarzenbergplatz_4"
+   sodipodi:nodetypes="cc" />
       <path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-3-4-9-8"
    sodipodi:type="arc"
    sodipodi:cx="51.499668"
-   sodipodi:cy="-55.317604"
+   sodipodi:cy="-47.777325"
    sodipodi:rx="2.5"
    sodipodi:ry="2.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 53.999668,-55.317604 a 2.5,2.5 0 0 1 -0.732233,1.767767"
+   d="m 53.999668,-47.777325 a 2.5,2.5 0 0 1 -0.732233,1.767767"
    sodipodi:open="true"
    transform="rotate(90)"
    inkscape:label="71_Schwarzenbergplatz_3" />
       <path
-   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
-   d="m 62.500006,53.999999 -7.182402,-3.3e-4"
+   style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.400001;stroke-dasharray:none;stroke-opacity:1"
+   d="m 62.500003,53.999999 -14.722677,-3.3e-4"
    id="path50-6"
    sodipodi:nodetypes="cc"
    inkscape:label="71_Schwarzenbergplatz_2" />
@@ -15118,41 +15240,41 @@
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-2"
    sodipodi:type="arc"
-   sodipodi:cx="-56.5"
-   sodipodi:cy="62.500004"
-   sodipodi:rx="2.5"
-   sodipodi:ry="2.5"
+   sodipodi:cx="-57.5"
+   sodipodi:cy="62.500008"
+   sodipodi:rx="3.5"
+   sodipodi:ry="3.5"
    sodipodi:start="0"
    sodipodi:end="1.5707963"
    sodipodi:arc-type="arc"
-   d="m -54,62.500004 a 2.5,2.5 0 0 1 -2.5,2.5"
+   d="m -54,62.500008 a 3.5,3.5 0 0 1 -3.5,3.5"
    sodipodi:open="true"
    transform="rotate(-90)"
    inkscape:label="71_Schwarzenbergplatz_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="M 65,64.976689 65.00055,59.993524 65.000001,57"
-   id="path76-9-6-1-4-5-7"
+   d="M 66,65.976707 66.00055,59.994068 66.000008,57.5"
+   id="path76-9-6-1-4-5-7-5"
    sodipodi:nodetypes="ccc"
    inkscape:label="71_Am_Heumarkt_2" />
       <path
    style="display:inline;fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-5-5"
    sodipodi:type="arc"
-   sodipodi:cx="-66.5"
-   sodipodi:cy="64.976685"
+   sodipodi:cx="-67.5"
+   sodipodi:cy="65.976707"
    sodipodi:rx="1.5"
    sodipodi:ry="1.5"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m -65,64.976685 a 1.5,1.5 0 0 1 -0.43934,1.06066"
+   d="m -66,65.976707 a 1.5,1.5 0 0 1 -0.43934,1.060661"
    sodipodi:open="true"
    transform="scale(-1,1)"
    inkscape:label="71_Am_Heumarkt_1" />
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.400001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="M 82.56032,83.158605 65.43934,66.03735"
+   d="M 82.56032,83.158605 66.43934,67.037368"
    id="path76-9-6-1-4-6-4-4"
    sodipodi:nodetypes="cc"
    inkscape:label="71_Rennweg_2" />
@@ -15571,48 +15693,30 @@
    style="display:inline">
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-1-4-0-8);paint-order:stroke markers fill"
-   d="m 25,87.900008 -3.329061,-3.5e-5"
+   d="M 25,83.008435 21.670939,83.0084"
    id="path138-5-9-4-3-1"
    sodipodi:nodetypes="cc"
    inkscape:label="13A_Momsengasse_4" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-   d="M 38.400021,87.900008 H 25"
+   d="M 38.400021,85.899997 35.947795,83.44777"
    id="path185"
-   inkscape:label="13A_Momsengasse_3" /><g
+   inkscape:label="13A_Momsengasse_3"
+   sodipodi:nodetypes="cc" /><g
    id="g43"
    inkscape:label="13A_Momsengasse_2"
-   transform="matrix(0.89055201,0,0,1,6.3370388,16.000001)"
+   transform="matrix(0.89055201,0,0,1,6.3370385,13.999992)"
    style="stroke-width:1.05967">
         <path
    style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.423868;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;paint-order:stroke markers fill"
    d="M 38.991339,71.900009 H 36.845666"
    id="path43"
    inkscape:label="Linienhervorhebung" />
-        <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.211933;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="M 36.003492,71.900007 57.900002,71.9"
-   id="path134-8-6-6-5-8"
-   sodipodi:nodetypes="cc"
-   inkscape:label="13A_Momsengasse_2" />
+        
       </g>
-      <path
-   style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-2-0-5"
-   sodipodi:type="arc"
-   sodipodi:cx="57.900002"
-   sodipodi:cy="-89.5"
-   sodipodi:rx="1.6"
-   sodipodi:ry="1.6"
-   sodipodi:start="0"
-   sodipodi:end="1.5707963"
-   sodipodi:arc-type="arc"
-   d="m 59.500002,-89.5 a 1.6,1.6 0 0 1 -1.6,1.6"
-   sodipodi:open="true"
-   transform="scale(1,-1)"
-   inkscape:label="13A_Momsengasse_1" />
+      
       <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.199999;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 59.500002,89.500001 v 4.389427"
+   d="m 58.420094,86.368622 3.200353,3.200353"
    id="path134-8-6-6-5"
    sodipodi:nodetypes="cc"
    inkscape:label="13A_Karl-Popper-Straße" />
@@ -15620,28 +15724,60 @@
    style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-2-0"
    sodipodi:type="arc"
-   sodipodi:cx="57.900002"
-   sodipodi:cy="93.889427"
+   sodipodi:cx="60.489079"
+   sodipodi:cy="91.300346"
    sodipodi:rx="1.6"
    sodipodi:ry="1.6"
    sodipodi:start="0"
    sodipodi:end="0.78539816"
    sodipodi:arc-type="arc"
-   d="m 59.500002,93.889427 a 1.6,1.6 0 0 1 -0.46863,1.131371"
+   d="m 62.089079,91.300346 a 1.6,1.6 0 0 1 -0.46863,1.131371"
    sodipodi:open="true"
-   inkscape:label="13A_Hauptbahnhof_4" />
+   inkscape:label="13A_Hauptbahnhof_4" /><path
+   style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-2-0-56"
+   sodipodi:type="arc"
+   sodipodi:cx="60.489079"
+   sodipodi:cy="-90.700348"
+   sodipodi:rx="1.6"
+   sodipodi:ry="1.6"
+   sodipodi:start="0"
+   sodipodi:end="0.78539816"
+   sodipodi:arc-type="arc"
+   d="m 62.089079,-90.700348 a 1.6,1.6 0 0 1 -0.46863,1.131371"
+   sodipodi:open="true"
+   inkscape:label="13A_Hauptbahnhof_4"
+   transform="scale(1,-1)" /><path
+   style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-26-1-6-2-8-9-7-8-9-2-2-8-8-9-2-0-56-5"
+   sodipodi:type="arc"
+   sodipodi:cx="-87.499992"
+   sodipodi:cy="57.288723"
+   sodipodi:rx="1.6"
+   sodipodi:ry="1.6"
+   sodipodi:start="0"
+   sodipodi:end="0.78539816"
+   sodipodi:arc-type="arc"
+   d="m -85.899992,57.288723 a 1.6,1.6 0 0 1 -0.46863,1.131371"
+   sodipodi:open="true"
+   inkscape:label="13A_Hauptbahnhof_4"
+   transform="rotate(-90)" /><path
+   style="display:inline;fill:none;stroke:#1a1918;stroke-width:0.25;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 62.089079,91.300346 -2e-6,-0.599999"
+   id="path174" />
       <g
    id="g37"
    inkscape:label="13A_Hauptbahnhof_3"
-   transform="translate(0,16.000001)">
+   transform="matrix(1.7090272,0,0,1.7090271,-39.050072,-42.83267)"
+   style="stroke-width:0.585128">
         <path
-   style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;paint-order:stroke markers fill"
-   d="m 55.608322,82.443853 3.42305,-3.423055"
+   style="fill:none;stroke:#ffffff;stroke-width:0.234051;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;paint-order:stroke markers fill"
+   d="m 55.426478,82.625698 3.478744,-3.478747"
    id="path41"
    sodipodi:nodetypes="cc" />
         <path
-   style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   d="m 59.031372,79.020798 -3.97652,3.976528"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#0a295c;stroke-width:0.117026;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   d="m 58.905288,79.146883 -3.850436,3.850443"
    id="path150-1-5-1-0"
    sodipodi:nodetypes="cc"
    inkscape:label="13A_Hauptbahnhof_3" />
@@ -15705,22 +15841,43 @@
       <g
    id="g41"
    inkscape:label="13A_Kolschizkygasse (HBF)_2"
-   transform="translate(0,16.000001)">
+   transform="matrix(1,0,0,1.1177145,0,6.3356043)"
+   style="stroke-width:0.945876">
         <path
-   style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;paint-order:stroke markers fill"
+   style="fill:none;stroke:#ffffff;stroke-width:0.378351;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.151181;paint-order:stroke markers fill"
    d="m 38.400029,79.997945 3e-6,2.043861"
    id="path42"
    sodipodi:nodetypes="cc"
    inkscape:label="Linienhervorhebung" />
         <path
-   style="display:inline;fill-opacity:1;stroke:#0a295c;stroke-width:0.199999;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+   style="display:inline;fill-opacity:1;stroke:#0a295c;stroke-width:0.189175;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
    d="m 38.400021,71.184896 1.1e-5,10.915377"
    id="path134-8-6-6-5-4"
    sodipodi:nodetypes="cc"
    inkscape:label="13A_Kolschizkygasse (HBF)_2" />
       </g>
       
-    </g>
+    <path
+   style="fill:none;stroke:#0a295c;stroke-width:0.2;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 57.288723,85.899992 -18.888702,5e-6"
+   id="path205" /><path
+   style="display:inline;fill:none;stroke:#0a295c;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   id="path42-7-2-5-2-9-8-2-3-0-0-9-5-58-0-8-6-0-9-2-6-0-5"
+   sodipodi:type="arc"
+   sodipodi:cx="34.887135"
+   sodipodi:cy="-84.50843"
+   sodipodi:rx="1.5"
+   sodipodi:ry="1.5"
+   sodipodi:start="0.78539816"
+   sodipodi:end="1.5707963"
+   sodipodi:arc-type="arc"
+   d="m 35.947795,-83.44777 a 1.5,1.5 0 0 1 -1.06066,0.43934"
+   sodipodi:open="true"
+   inkscape:label="59A_Karlsplatz_1"
+   transform="scale(1,-1)" /><path
+   style="fill:none;stroke:#0a295c;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="M 34.890815,83.008435 H 24.999999"
+   id="path206" /></g>
     <path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-5);paint-order:stroke markers fill"
    d="M 137.35,26.450684 V 26.000066"
@@ -15728,12 +15885,12 @@
    sodipodi:nodetypes="cc"
    inkscape:label="Pfeil_Praterstern" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-3-6-0-8-2);paint-order:stroke markers fill"
-   d="m 45.182504,45.60718 -0.42894,-0.428941"
+   d="m 39.642504,47.607119 -0.42894,-0.428941"
    id="path138-5-7"
    sodipodi:nodetypes="cc"
    inkscape:label="Pfeil Oper, Karlsplatz" /><path
    style="display:inline;fill:none;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-5-9);paint-order:stroke markers fill"
-   d="M 22.893349,78.562348 H 22.442731"
+   d="M 22.121557,91.4566 H 21.670939"
    id="path114-2-5"
    sodipodi:nodetypes="cc"
    inkscape:label="Pfeil_Wiedner_Hptstr" /><path
@@ -15742,7 +15899,10 @@
    id="path114-2-5-0"
    sodipodi:nodetypes="cc"
    inkscape:label="Pfeil_Vorgartenstraße" />
-  </g><g
+  <path
+   style="fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="m 21.670939,90.956601 v 0.999998"
+   id="path163" /></g><g
    inkscape:groupmode="layer"
    id="layer4"
    inkscape:label="Linienelemente"
@@ -18495,7 +18655,7 @@
      id="g84492-0-9-6"
      inkscape:label="Karlsplatz"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-13.970834,17.49989)">
+     transform="translate(-6.3205003,19.159097)">
       <g
    id="g1"
    inkscape:label="4A"><rect
@@ -19008,7 +19168,7 @@
      id="g84492-0-91"
      inkscape:label="Südtiroler Platz, Hauptbahnhof"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-23.970834,46.981946)">
+     transform="translate(-9.6708336,44.9823)">
       <g
    id="g103-5"
    inkscape:label="13A">
@@ -19155,7 +19315,7 @@
      id="g84492-0-91-7"
      inkscape:label="Alser Straße, Skodagasse (13A)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-36.134834,39.808862)">
+     transform="translate(-36.134834,34.881009)">
       <g
    id="g103-5-0"
    inkscape:label="76A">
@@ -21245,7 +21405,7 @@
      id="g72321-3-3-33-7-8-6-5"
      inkscape:label="Oper, Karlsplatz (1, 2, 71, D)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-6.000001,-12.791238)">
+     transform="translate(-11.540001,-10.791299)">
       <g
    id="g103-3-6-2-4-8-41"
    inkscape:label="5"
@@ -21509,12 +21669,12 @@
      id="g72321-3-3-33-7-8-6-5-6"
      inkscape:label="Karlsplatz (1, 62)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-29.164002,25.721109)">
+     transform="translate(-29.935789,40.908767)">
       <g
    id="g103-3-6-2-4-8-41-4"
    inkscape:label="5"
    style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-   transform="translate(-5.9708356,1.2088842)">
+   transform="translate(-3.6710476,1.2088842)">
         <rect
    style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.0999988;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="rect54259-0-2-8-2-2-8-9-5-1-7-7-0-7-1-3"
@@ -21534,175 +21694,7 @@
      y="50.986122">1</tspan></text>
       </g>
       
-      <g
-   id="g88134-1-5-4-7-0-7"
-   inkscape:label="Straßenbahn 1,8"
-   transform="translate(2.3997055,17.49124)">
-        <rect
-   style="fill:#bf0808;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="rect86717-9-3-6-4-3-7"
-   width="1.799999"
-   height="1.799999"
-   x="44.900002"
-   y="33.299999"
-   rx="7.6293946e-07"
-   ry="7.6293946e-07" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.138;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.425,34.675 h 0.75"
-   id="path86550-8-1-3-7-5-5"
-   sodipodi:nodetypes="cc" />
-        <rect
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="rect87359-9-09-3-4-1-3"
-   width="0.625"
-   height="0.82499844"
-   x="45.487499"
-   y="33.850002"
-   rx="7.6293946e-07"
-   ry="7.6293941e-07" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-2-6-7-2-7-4-4-5-7"
-   cx="46.049999"
-   cy="34.575001"
-   r="0.050000001" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.138;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.5,33.85 h 0.6"
-   id="path86663-1-8-4-50-1-8"
-   sodipodi:nodetypes="cc" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="M 46.175,34.675 46.1,33.85"
-   id="path86661-7-3-1-6-9-3"
-   sodipodi:nodetypes="cc" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="M 45.425,34.675 C 45.44584,34.4 45.47916,34.125 45.5,33.85"
-   id="path86659-2-4-3-3-7-1"
-   sodipodi:nodetypes="cc" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-9-1-6-1-7-3-4"
-   cx="45.5"
-   cy="33.849998"
-   rx="0.0625"
-   ry="0.068750955" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-9-0-7-4-4-1-0-3"
-   cx="46.099998"
-   cy="33.849998"
-   rx="0.0625"
-   ry="0.068750955" />
-        <rect
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   id="rect85248-5-3-0-0-5-2"
-   width="0.57499999"
-   height="0.1"
-   x="45.512501"
-   y="33.5"
-   ry="0.025000762"
-   rx="0.025001526" />
-        <rect
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   id="rect85248-3-8-2-0-3-7-7"
-   width="0.61249918"
-   height="0.074997708"
-   x="45.493752"
-   y="34.8125"
-   ry="0.025000764"
-   rx="0.025001526" />
-        <path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 45.675,33.525 c 0.03343,0.10865 0.06676,0.216981 0.1,0.325"
-   id="path85250-75-1-8-28-3-1"
-   sodipodi:nodetypes="cc"
-   inkscape:original-d="m 45.675,33.525 c 0.0336,0.108598 0.06693,0.21693 0.1,0.325"
-   inkscape:path-effect="#path-effect85252-73-1-5-8-5-0" />
-        <path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 45.925,33.525 c -0.03343,0.108648 -0.06676,0.216981 -0.1,0.325"
-   id="path85250-7-6-0-2-3-0-0"
-   sodipodi:nodetypes="cc"
-   inkscape:original-d="m 45.925,33.525 c -0.03311,0.108746 -0.06644,0.21708 -0.1,0.325"
-   inkscape:path-effect="#path-effect85252-7-5-59-7-3-0-4" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-3-0-0-5-2-2"
-   cx="45.424999"
-   cy="34.674999"
-   rx="0.0625"
-   ry="0.068750955" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-2-6-8-5-1-9-1-6"
-   cx="45.549999"
-   cy="34.575001"
-   r="0.050000001" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-5-6-6-4-2-6-3"
-   cx="46.174999"
-   cy="34.674999"
-   rx="0.0625"
-   ry="0.068750955" />
-        <path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.487503,34.449997 h 0.649999"
-   id="path87355-6-5-8-5-6-2" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-3-3-9-8-8-8"
-   cx="45.537498"
-   cy="33.924999"
-   r="0.025" />
-        <path
-   style="fill:#800000;fill-opacity:1;stroke:#bf0808;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 46.062503,33.924998 0.025,0.475001"
-   id="path87917-7-1-1-6-8-1" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-6-7-04-6-6-0-8"
-   cx="46.0625"
-   cy="33.924999"
-   r="0.025" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-5-1-7-5-7-8-4"
-   cx="45.512501"
-   cy="34.400002"
-   r="0.025" />
-        <path
-   style="fill:#bf0808;fill-opacity:1;stroke:#bf0808;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.512504,34.399999 h 0.575"
-   id="path87921-4-2-3-4-2-5" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-2-7-3-0-8-1-0"
-   cx="46.087502"
-   cy="34.400002"
-   r="0.025" />
-        <path
-   style="fill:#800000;fill-opacity:1;stroke:#bf0808;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.537504,33.924998 -0.025,0.475001"
-   id="path87411-8-8-9-2-4-0"
-   sodipodi:nodetypes="cc" />
-        <path
-   style="fill:#800000;fill-opacity:1;stroke:#bf0808;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.537504,33.924998 h 0.524999"
-   id="path87919-0-1-0-7-15-7-4" />
-        <rect
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="rect87923-3-0-0-0-8-2"
-   width="0.52499998"
-   height="0.47631374"
-   x="45.537498"
-   y="33.924999"
-   rx="7.6293946e-07"
-   ry="7.6293941e-07" />
-      </g>
+      
     </g><g
      id="g72321-3-3-33-7-8-8"
      inkscape:label="Schlachthausgasse"
@@ -21909,12 +21901,12 @@
      id="g72321-3-3-33-7-8-8-8"
      inkscape:label="Burggasse, Stadthalle (18)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-29.164,44.650001)">
+     transform="translate(-29.664433,41.786023)">
       <g
    id="g103-3-6-2-4-9-6"
    inkscape:label="5"
    style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-   transform="translate(-5.9708356,1.2088842)">
+   transform="translate(-6.2425558,0.45215729)">
         <rect
    style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.0999988;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
    id="rect54259-0-2-8-2-2-8-9-5-1-7-7-0-5-1"
@@ -21941,7 +21933,7 @@
       <g
    id="g88134-1-5-4-0-8"
    inkscape:label="Straßenbahn 1,8"
-   transform="translate(0.0999981,15.100001)">
+   transform="translate(2.1284315,12.042978)">
         <rect
    style="fill:#bf0808;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
    id="rect86717-9-3-6-7-5"
@@ -22920,203 +22912,6 @@
          style="font-weight:bold;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05"
          x="49.483566"
          y="52.542362">80</tspan></text></g><g
-     id="g72321-3-3-33-7-8-8-8-6"
-     inkscape:label="Oper (62)"
-     style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-2.9999996,3.5662902)">
-      <g
-   id="g103-3-6-2-4-9-6-1"
-   inkscape:label="5"
-   style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-   transform="translate(-5.9708356,1.2088842)">
-        <rect
-   style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.0999988;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   id="rect54259-0-2-8-2-2-8-9-5-1-7-7-0-5-1-9"
-   width="1.8"
-   height="1.8000001"
-   x="53.270836"
-   y="47.191116" /><text
-   xml:space="preserve"
-   style="font-size:1.41111px;line-height:1;text-align:center;letter-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-   x="54.167725"
-   y="48.594883"
-   id="text54315-3-6-8-1-0-0-2-1-9-8-4-3-5-5"><tspan
-     sodipodi:role="line"
-     style="font-weight:bold;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1"
-     x="54.167725"
-     y="48.594883"
-     id="tspan6-2-9">62</tspan></text>
-      </g>
-      <g
-   id="g88134-1-5-4-0-8-7"
-   inkscape:label="Straßenbahn 1,8"
-   transform="translate(0.0999981,15.100001)">
-        <rect
-   style="fill:#bf0808;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="rect86717-9-3-6-7-5-4"
-   width="1.799999"
-   height="1.799999"
-   x="44.900002"
-   y="33.299999"
-   rx="7.6293946e-07"
-   ry="7.6293946e-07" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.138;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.425,34.675 h 0.75"
-   id="path86550-8-1-3-5-5-6"
-   sodipodi:nodetypes="cc" />
-        <rect
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="rect87359-9-09-3-72-4-0"
-   width="0.625"
-   height="0.82499844"
-   x="45.487499"
-   y="33.850002"
-   rx="7.6293946e-07"
-   ry="7.6293941e-07" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-2-6-7-2-7-4-7-4-3"
-   cx="46.049999"
-   cy="34.575001"
-   r="0.050000001" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.138;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.5,33.85 h 0.6"
-   id="path86663-1-8-4-2-7-6"
-   sodipodi:nodetypes="cc" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="M 46.175,34.675 46.1,33.85"
-   id="path86661-7-3-1-28-7-3"
-   sodipodi:nodetypes="cc" />
-        <path
-   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="M 45.425,34.675 C 45.44584,34.4 45.47916,34.125 45.5,33.85"
-   id="path86659-2-4-3-6-9-2"
-   sodipodi:nodetypes="cc" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-9-1-6-1-8-3-9"
-   cx="45.5"
-   cy="33.849998"
-   rx="0.0625"
-   ry="0.068750955" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-9-0-7-4-4-3-9-0"
-   cx="46.099998"
-   cy="33.849998"
-   rx="0.0625"
-   ry="0.068750955" />
-        <rect
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   id="rect85248-5-3-0-7-7-1"
-   width="0.57499999"
-   height="0.1"
-   x="45.512501"
-   y="33.5"
-   ry="0.025000762"
-   rx="0.025001526" />
-        <rect
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   id="rect85248-3-8-2-0-8-5-7"
-   width="0.61249918"
-   height="0.074997708"
-   x="45.493752"
-   y="34.8125"
-   ry="0.025000764"
-   rx="0.025001526" />
-        <path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 45.675,33.525 c 0.03343,0.10865 0.06676,0.216981 0.1,0.325"
-   id="path85250-75-1-8-1-6-2"
-   sodipodi:nodetypes="cc"
-   inkscape:original-d="m 45.675,33.525 c 0.0336,0.108598 0.06693,0.21693 0.1,0.325"
-   inkscape:path-effect="#path-effect85252-73-1-5-85-6-5" />
-        <path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-   d="m 45.925,33.525 c -0.03343,0.108648 -0.06676,0.216981 -0.1,0.325"
-   id="path85250-7-6-0-2-05-1-9"
-   sodipodi:nodetypes="cc"
-   inkscape:original-d="m 45.925,33.525 c -0.03311,0.108746 -0.06644,0.21708 -0.1,0.325"
-   inkscape:path-effect="#path-effect85252-7-5-59-7-0-6-6" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-3-0-0-4-4-8"
-   cx="45.424999"
-   cy="34.674999"
-   rx="0.0625"
-   ry="0.068750955" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-2-6-8-5-1-0-9-9"
-   cx="45.549999"
-   cy="34.575001"
-   r="0.050000001" />
-        <ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.250001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path86307-5-6-6-4-620-3-7"
-   cx="46.174999"
-   cy="34.674999"
-   rx="0.0625"
-   ry="0.068750955" />
-        <path
-   style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.487503,34.449997 h 0.649999"
-   id="path87355-6-5-8-6-0-4" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-3-3-9-23-4-2"
-   cx="45.537498"
-   cy="33.924999"
-   r="0.025" />
-        <path
-   style="fill:#800000;fill-opacity:1;stroke:#bf0808;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 46.062503,33.924998 0.025,0.475001"
-   id="path87917-7-1-1-50-8-1" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-6-7-04-6-8-9-5"
-   cx="46.0625"
-   cy="33.924999"
-   r="0.025" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-5-1-7-5-9-2-6"
-   cx="45.512501"
-   cy="34.400002"
-   r="0.025" />
-        <path
-   style="fill:#bf0808;fill-opacity:1;stroke:#bf0808;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.512504,34.399999 h 0.575"
-   id="path87921-4-2-3-39-2-1" />
-        <circle
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="path87361-2-7-3-0-3-3-88"
-   cx="46.087502"
-   cy="34.400002"
-   r="0.025" />
-        <path
-   style="fill:#800000;fill-opacity:1;stroke:#bf0808;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.537504,33.924998 -0.025,0.475001"
-   id="path87411-8-8-9-9-1-6"
-   sodipodi:nodetypes="cc" />
-        <path
-   style="fill:#800000;fill-opacity:1;stroke:#bf0808;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   d="m 45.537504,33.924998 h 0.524999"
-   id="path87919-0-1-0-7-8-0-0" />
-        <rect
-   style="fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-   id="rect87923-3-0-0-2-0-7"
-   width="0.52499998"
-   height="0.47631374"
-   x="45.537498"
-   y="33.924999"
-   rx="7.6293946e-07"
-   ry="7.6293941e-07" />
-      </g>
-    </g><g
      id="g72321-3-3-33-7-8-2-0-1-5-5"
      inkscape:label="Hütteldorf (U4)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
@@ -23270,7 +23065,7 @@
      style="display:inline;fill:#245d91;fill-opacity:1;stroke-width:0.352778"
      clip-path="url(#clipPath1)"
      sodipodi:nodetypes="ccccccccccccccccc"
-     transform="matrix(0.25097034,0,0,0.25097034,17.445,71.111967)"
+     transform="matrix(0.25097034,0,0,0.25097034,17.018419,94.081454)"
      inkscape:label="WLB_Baden" /><path
      d="M 1.1655787,5.9263205 H 5.7164149 L 6.7560517,4.1088082 H 2.0122459 L 4.3846779,2.858e-6 H 2.250371 L 1.76e-7,3.9179553 Z M 8.760889,1.6443011 H 4.2097 L 3.1700633,3.4614606 H 7.913869 L 5.541437,7.5706187 H 7.6757439 L 9.9261148,3.6526663 v 0 z"
      id="path1227-3"
@@ -23278,7 +23073,7 @@
      style="display:inline;fill:#245d91;fill-opacity:1;stroke-width:0.352778"
      clip-path="url(#clipPath1-1)"
      sodipodi:nodetypes="ccccccccccccccccc"
-     transform="matrix(0.25097034,0,0,0.25097034,46.5,51.882998)"
+     transform="matrix(0.25097034,0,0,0.25097034,58.268999,102.59)"
      inkscape:label="Oper (WLB)" /><g
      id="g72321-3-3-33-7-8-2-0-1-5"
      inkscape:label="Oberlaa (U1)"
@@ -23910,7 +23705,7 @@
      id="g84492-0-91-7-3-0"
      inkscape:label="Oper (59A)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-8.9708336,7.0748901)">
+     transform="translate(-3.2056272,3.0328999)">
       <g
    id="g103-5-0-4-5"
    inkscape:label="76A">
@@ -24557,7 +24352,7 @@
      id="g91679-9-2-2-2"
      inkscape:label="Südritoler Platz, Hauptbahnhof (Regionalbus)"
      style="display:inline;fill:none;stroke-width:0.4;stroke-dasharray:none"
-     transform="translate(-23.627599,61.173)"><rect
+     transform="translate(-18.199999,56.873001)"><rect
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0562498;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect91165-7-1-9-45"
        width="1.5750008"
@@ -25246,7 +25041,7 @@
          y="192.22911">6</tspan></text></g><g
      id="g286-7-6-6-7-0-2-4-6"
      inkscape:label="11_Leberberg"
-     transform="translate(-12.661931,-125.08776)"><rect
+     transform="translate(-10.350978,-122.77677)"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-5-0-9"
        width="1.3506329"
@@ -25290,52 +25085,6 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">71</tspan></text></g><g
-     id="g286-7-6-6-7-0-2-4-07"
-     inkscape:label="11_Leberberg"
-     transform="translate(-29.333827,-142.64008)"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-5-0-8"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.215103"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.890419"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-3-5-42"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-3-5-6"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.890419"
-         y="192.22911">71</tspan></text></g><g
-     id="g286-7-6-6-7-0-2-4-07-6"
-     inkscape:label="11_Leberberg"
-     transform="translate(-29.034966,-143.75544)"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-5-0-8-0"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.215103"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.890419"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-3-5-42-7"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-3-5-6-9"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.890419"
-         y="192.22911">2</tspan></text></g><g
      id="g286-7-6-6-7-0-2-4-07-6-9"
      inkscape:label="11_Leberberg"
      transform="translate(-21.375103,-138.91439)"><rect
@@ -25405,9 +25154,33 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">2</tspan></text></g><g
+     id="g286-7-6-6-7-0-9-2-7-6-4-7"
+     inkscape:label="11_Leberberg"
+     transform="translate(-21.375162,-136.9145)"
+     style="display:inline"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect286-3-4-8-0-7-8-2-6-5-0-2-5"
+       width="1.3506329"
+       height="0.85000002"
+       x="78.215103"
+       y="191.48927"
+       rx="0.25"
+       ry="0.27239221"
+       inkscape:label="Hintergrund" /><text
+       xml:space="preserve"
+       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+       x="78.890419"
+       y="192.22911"
+       id="text286-0-7-7-7-6-1-6-6-2-9-6-8"
+       inkscape:label="Liniennummer"><tspan
+         sodipodi:role="line"
+         id="tspan286-4-1-4-1-9-0-8-8-6-3-0-2"
+         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
+         x="78.890419"
+         y="192.22911">1</tspan></text></g><g
      id="g286-7-6-6-7-0-2-4-07-6-9-0"
      inkscape:label="11_Leberberg"
-     transform="translate(-21.375162,-136.9145)"><rect
+     transform="translate(-21.375162,-135.91453)"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-5-0-8-0-3-7"
        width="1.3506329"
@@ -25451,6 +25224,30 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">D</tspan></text></g><g
+     id="g286-7-6-6-7-0-9-2-7-6-4-7-4"
+     inkscape:label="11_Leberberg"
+     transform="translate(-13.88997,-125.08756)"
+     style="display:inline"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect286-3-4-8-0-7-8-2-6-5-0-2-5-7"
+       width="1.3506329"
+       height="0.85000002"
+       x="78.215103"
+       y="191.48927"
+       rx="0.25"
+       ry="0.27239221"
+       inkscape:label="Hintergrund" /><text
+       xml:space="preserve"
+       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+       x="78.890419"
+       y="192.22911"
+       id="text286-0-7-7-7-6-1-6-6-2-9-6-8-6"
+       inkscape:label="Liniennummer"><tspan
+         sodipodi:role="line"
+         id="tspan286-4-1-4-1-9-0-8-8-6-3-0-2-1"
+         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
+         x="78.890419"
+         y="192.22911">1</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2"
      inkscape:label="11_Leberberg"
      transform="translate(44.618812,-136.91427)"
@@ -25597,7 +25394,7 @@
          y="192.22911">O</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-8-2-6-8"
      inkscape:label="11_Leberberg"
-     transform="translate(-5.6912796,-98.686985)"
+     transform="translate(-2.2476773,-102.13058)"
      style="display:inline"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-2-6-7-2-3-6"
@@ -25645,7 +25442,7 @@
          y="192.22911">O</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-8-2-6-8-8-1"
      inkscape:label="11_Leberberg"
-     transform="translate(-31.974102,-95.421119)"
+     transform="translate(-27.577519,-97.414498)"
      style="display:inline"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-2-6-7-2-3-6-2-6"
@@ -25693,7 +25490,7 @@
          y="192.22911">18</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-8-2-6-8-8-1-5-2"
      inkscape:label="11_Leberberg"
-     transform="translate(-48.190417,-95.421323)"
+     transform="translate(-48.190417,-97.414714)"
      style="display:inline"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-2-6-7-2-3-6-2-6-5-6"
@@ -25811,33 +25608,9 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">1</tspan></text></g><g
-     id="g286-7-6-6-7-0-9-2-7-6"
-     inkscape:label="11_Leberberg"
-     transform="translate(-29.931532,-140.40941)"
-     style="display:inline"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-2-6-5-0"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.215103"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.890419"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-6-6-2-9"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-8-8-6-3"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.890419"
-         y="192.22911">1</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-7-6-7"
      inkscape:label="11_Leberberg"
-     transform="translate(-25.425723,-133.20407)"
+     transform="translate(-27.577519,-96.414422)"
      style="display:inline"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-2-6-5-0-4"
@@ -25859,12 +25632,12 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">1</tspan></text></g><g
-     id="g286-7-6-6-7-0-9-2-7-6-7-23"
+     id="g286-7-6-6-7-0-9-2-7-6-7-9"
      inkscape:label="11_Leberberg"
-     transform="translate(-38.518166,-118.95093)"
+     transform="translate(-48.190417,-96.414669)"
      style="display:inline"><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-2-6-5-0-4-46"
+       id="rect286-3-4-8-0-7-8-2-6-5-0-4-9"
        width="1.3506329"
        height="0.85000002"
        x="78.215103"
@@ -25876,37 +25649,13 @@
        style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        x="78.890419"
        y="192.22911"
-       id="text286-0-7-7-7-6-1-6-6-2-9-7-2"
+       id="text286-0-7-7-7-6-1-6-6-2-9-7-9"
        inkscape:label="Liniennummer"><tspan
          sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-8-8-6-3-1-3"
+         id="tspan286-4-1-4-1-9-0-8-8-6-3-1-25"
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">1</tspan></text></g><g
-     id="g286-7-6-6-7-0-9-2-7-6-7-8"
-     inkscape:label="59A_Oper Karlsplatz"
-     transform="translate(-28.388294,-133.68076)"
-     style="display:inline"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-2-6-5-0-4-4"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.11541"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#0a295c;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.790726"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-6-6-2-9-7-1"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-8-8-6-3-1-2"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#0a295c;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.790726"
-         y="192.22911">59A</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-7-6-7-8-02"
      inkscape:label="59A_Oper Karlsplatz"
      transform="translate(-21.255538,-127.91427)"
@@ -25933,7 +25682,7 @@
          y="192.22911">4A</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-7-6-7-8-0"
      inkscape:label="59A_Karlsplatz"
-     transform="translate(-41.974913,-124.19541)"
+     transform="translate(-45.712153,-124.19541)"
      style="display:inline"><rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0300001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-2-6-5-0-4-4-8-7"
@@ -26003,78 +25752,6 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#0a295c;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.790726"
          y="192.22911">11A</tspan></text></g><g
-     id="g286-7-6-6-7-0-9-2-7-6-7-2"
-     inkscape:label="11_Leberberg"
-     transform="translate(-26.364943,-134.169)"
-     style="display:inline"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-2-6-5-0-4-3"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.215103"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.890419"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-6-6-2-9-7-9"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-8-8-6-3-1-5"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.890419"
-         y="192.22911">62</tspan></text></g><g
-     id="g286-7-6-6-7-0-9-2-7-6-7-2-0"
-     inkscape:label="11_Leberberg"
-     transform="translate(-38.935792,-119.94733)"
-     style="display:inline"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-2-6-5-0-4-3-1"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.215103"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.890419"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-6-6-2-9-7-9-0"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-8-8-6-3-1-5-7"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.890419"
-         y="192.22911">62</tspan></text></g><g
-     id="g286-7-6-6-7-0-9-2-7-6-2"
-     inkscape:label="11_Leberberg"
-     transform="translate(-29.614712,-141.5918)"
-     style="display:inline"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect286-3-4-8-0-7-8-2-6-5-0-0"
-       width="1.3506329"
-       height="0.85000002"
-       x="78.215103"
-       y="191.48927"
-       rx="0.25"
-       ry="0.27239221"
-       inkscape:label="Hintergrund" /><text
-       xml:space="preserve"
-       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
-       x="78.890419"
-       y="192.22911"
-       id="text286-0-7-7-7-6-1-6-6-2-9-1"
-       inkscape:label="Liniennummer"><tspan
-         sodipodi:role="line"
-         id="tspan286-4-1-4-1-9-0-8-8-6-3-3"
-         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
-         x="78.890419"
-         y="192.22911">D</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-7-2"
      inkscape:label="11_Leberberg"
      transform="translate(14.923558,-159.03293)"
@@ -26269,7 +25946,7 @@
          y="192.22911">11B</tspan></text></g><g
      id="g286-7-6-6-7-0-9-2-7-6-7-8-0-7-6-9-2"
      inkscape:label="59A_Karlsplatz"
-     transform="translate(-45.711949,-104.01427)"
+     transform="translate(-48.901186,-108.90584)"
      style="display:inline"><rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0300001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect286-3-4-8-0-7-8-2-6-5-0-4-4-8-7-5-5-4-9"
@@ -28691,6 +28368,30 @@
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
          y="192.22911">D</tspan></text></g><g
+     id="g286-7-6-6-7-0-9-2-7-6-7-23"
+     inkscape:label="11_Leberberg"
+     transform="translate(-13.89031,-102.35777)"
+     style="display:inline"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect286-3-4-8-0-7-8-2-6-5-0-4-46"
+       width="1.3506329"
+       height="0.85000002"
+       x="78.215103"
+       y="191.48927"
+       rx="0.25"
+       ry="0.27239221"
+       inkscape:label="Hintergrund" /><text
+       xml:space="preserve"
+       style="font-style:italic;font-size:0.881944px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+       x="78.890419"
+       y="192.22911"
+       id="text286-0-7-7-7-6-1-6-6-2-9-7-2"
+       inkscape:label="Liniennummer"><tspan
+         sodipodi:role="line"
+         id="tspan286-4-1-4-1-9-0-8-8-6-3-1-3"
+         style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
+         x="78.890419"
+         y="192.22911">1</tspan></text></g><g
      id="g286-7-6-6-7-0-2-4-07-6-9-0-1-0-5"
      inkscape:label="11_Leberberg"
      transform="translate(-23.70655,-90.447133)"
@@ -28762,7 +28463,16 @@
          id="tspan286-4-1-4-1-9-0-3-5-6-9-4-9-4-4-2-1"
          style="font-style:normal;font-weight:bold;font-size:0.881944px;text-align:center;text-anchor:middle;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:0.03"
          x="78.890419"
-         y="192.22911">D</tspan></text></g></g><g
+         y="192.22911">D</tspan></text></g><path
+     style="fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 63.999998,71.999998 h 1.000488"
+     id="path212" /><path
+     style="fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 63.999998,76.999998 h 1.000379"
+     id="path226" /><path
+     style="fill:none;stroke:#bf0808;stroke-width:0.4;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 63.999998,82.049606 h 1.000271"
+     id="path227" /></g><g
    inkscape:groupmode="layer"
    id="layer63"
    inkscape:label="Pfeile"><g
@@ -28850,7 +28560,7 @@
        d="m 91.058553,88.87839 -0.693141,0.693139"
        id="path287-1-7-1" /></g><g
      id="g287-5-3-5"
-     transform="rotate(135,69.325736,80.45167)"
+     transform="rotate(135,68.93447,79.174589)"
      style="display:inline"><path
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#0a295c;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-Single-Dir-Blob-0-3-5-2)"
        d="m 89.782271,88.988388 c 0.231662,0.231662 -0.01301,-0.01301 0.707107,0.707107"
@@ -28864,7 +28574,7 @@
        d="m 91.058553,88.87839 -0.693141,0.693139"
        id="path287-1-7-1-9" /></g><g
      id="g287-5-3-5-4"
-     transform="rotate(45,63.737588,25.724698)"
+     transform="rotate(45,65.235819,25.10411)"
      style="display:inline"><path
        style="display:inline;fill:#000000;fill-opacity:1;stroke:#0a295c;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-Single-Dir-Blob-0-3-5-2-4)"
        d="m 89.782271,88.988388 c 0.231662,0.231662 -0.01301,-0.01301 0.707107,0.707107"
@@ -29501,9 +29211,8 @@
    inkscape:label="Con_HBF_Süd" />
         <path
    style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="m 38.400021,71.900007 1.599986,1.599985"
+   d="m 8.508592,54.723202 1.599986,1.599985"
    id="path107"
-   transform="translate(-29.891429,-15.177185)"
    inkscape:label="Con_HBF_Kolschizkyg" />
         <path
    style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
@@ -29520,11 +29229,11 @@
    id="path155"
    inkscape:label="Hintergrund_Knick" />
           <rect
-   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.249999;stroke-dasharray:none;stroke-opacity:1"
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
    id="rect4487-7-7-1-6-0-0-1-2-0-4-6-7-4-6-3-5-6-6-2-5-8-2-1-0-4"
-   width="14.252"
+   width="16.252001"
    height="1.35"
-   x="-71.899986"
+   x="-71.899818"
    y="9.4335833"
    ry="0.67500001"
    inkscape:label="Hintergrund_U1"
@@ -29614,13 +29323,13 @@
    id="path42-7-2-5-2-9-8-2-3-0-1-2-7-7-2-3"
    sodipodi:type="arc"
    sodipodi:cx="-10.108578"
-   sodipodi:cy="-58.322807"
+   sodipodi:cy="-56.322739"
    sodipodi:rx="0.75"
    sodipodi:ry="0.75"
    sodipodi:start="0"
    sodipodi:end="3.1415927"
    sodipodi:arc-type="arc"
-   d="m -9.3585777,-58.322807 a 0.75,0.75 0 0 1 -0.375,0.649519 0.75,0.75 0 0 1 -0.7500003,0 0.75,0.75 0 0 1 -0.375,-0.649519"
+   d="m -9.3585777,-56.322739 a 0.75,0.75 0 0 1 -0.375,0.649519 0.75,0.75 0 0 1 -0.7500003,0 0.75,0.75 0 0 1 -0.375,-0.649519"
    sodipodi:open="true"
    transform="scale(-1)"
    inkscape:label="End_1" />
@@ -29641,12 +29350,13 @@
    inkscape:label="End_2" />
           <path
    style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="M 9.3585889,71.225166 9.3585775,58.322807"
+   d="M 9.3585889,71.225166 9.3585775,56.322814"
    id="path113"
-   inkscape:label="Border_U_2" />
+   inkscape:label="Border_U_2"
+   sodipodi:nodetypes="cc" />
           <path
    style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
-   d="m 10.858577,70.603851 10e-7,-12.281044"
+   d="m 10.858577,70.603851 10e-7,-14.281037"
    id="path113-9"
    sodipodi:nodetypes="cc"
    inkscape:label="Border_U_1" />
@@ -29707,11 +29417,10 @@
         <circle
    style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
    id="circle93-1-41-9-6-9-0-9-9-5-1-2-8-9-8"
-   cx="38.400021"
-   cy="71.900009"
+   cx="8.5085917"
+   cy="54.722813"
    inkscape:label="Kolschitkygasse"
-   r="0.625"
-   transform="translate(-29.891429,-15.177185)" />
+   r="0.625" />
         <circle
    style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
    id="circle93-1-41-9-6-9-0-9-9-5-1-2-8-9-8-3"
@@ -29744,45 +29453,51 @@
       <g
    id="g37127-1-5-5-6-5-6"
    inkscape:label="Karlsplatz"
-   style="display:inline;fill:none"
+   style="display:inline;fill:none;stroke-width:0.25;stroke-dasharray:none"
    transform="rotate(-45,102.92333,51.895508)">
         <path
-   style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dashoffset:0.151181"
+   style="display:inline;fill:none;stroke:#1a1918;stroke-width:0.25;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:2.91024;stroke-opacity:1;paint-order:markers fill stroke"
+   d="M 53.874995,18.763423 51.35702,16.245447"
+   id="path117"
+   inkscape:label="Con_Karlsplatz-1R_Baustelle"
+   sodipodi:nodetypes="cc" /><path
+   style="display:none;fill:none;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
    d="m 53.124996,18.013422 2e-6,2.397345"
    id="path83"
    inkscape:label="Con_Karlsplatz-1R" />
         <path
-   style="display:inline;fill:none;stroke:#000000;stroke-width:0.25;stroke-dashoffset:0.151181"
+   style="display:inline;fill:none;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0.151181;stroke-opacity:1"
    d="m 62.041214,15.673276 -2.340172,2.340177"
    id="path83-4"
    inkscape:label="Con_Karlsplatz-Oper" />
         <rect
-   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-dasharray:none;stroke-opacity:1"
-   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-2-4-6-4-4"
-   width="7.9260001"
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-2-4-6-4-4-4-2"
+   width="8.3260002"
    height="1.5"
-   x="-5.1235361"
-   y="-65.027657"
+   x="-60.651039"
+   y="-18.763422"
    ry="0.75"
    inkscape:label="Karlsplatz"
    rx="0.75"
-   transform="rotate(180,27.763752,-23.132117)" />
-        <rect
-   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-dasharray:none;stroke-opacity:1"
-   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-2-4-6-40"
-   width="7.25"
+   transform="scale(-1)" /><rect
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.250002;stroke-dasharray:none;stroke-opacity:1"
+   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-9-2-7-3-4-2-3"
+   width="4.249999"
    height="1.25"
-   x="-13.137621"
-   y="-62.732182"
+   x="31.352825"
+   y="54.327446"
    ry="0.625"
-   inkscape:label="Oper Karlsplatz"
+   inkscape:label="Svetelskystrasse"
    rx="0.625"
-   transform="rotate(180,27.763751,-23.132116)" />
+   transform="rotate(-45)" />
+        
         <g
    id="g87"
-   inkscape:label="Karlsplatz_1R">
+   inkscape:label="Karlsplatz_1R"
+   style="display:none;stroke-width:0.25;stroke-dasharray:none">
           <rect
-   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
    id="rect4487-7-5-8-0-9-4-6-3-7"
    width="3.875"
    height="0.875"
@@ -29792,14 +29507,32 @@
    transform="rotate(-90,-21.062501,153.81249)"
    inkscape:label="Karlsplatz_1R" />
           <path
-   style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-Single-Dir-Blob)"
+   style="display:inline;fill:#000000;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-Single-Dir-Blob)"
    d="m 108.75,227.1766 c 0,0.32762 0,-0.0184 0,1"
    id="path14800-0-15-0-3-4-6-3-6"
    sodipodi:nodetypes="cc"
    transform="rotate(-90,-21.062501,153.81249)"
    inkscape:label="Richtungspfeil" />
         </g>
-      </g>
+      <g
+   id="g9"
+   inkscape:label="Karlsplatz_1R_Baustelle"
+   transform="matrix(1,0,0,-1,1.512934,31.709837)"
+   style="stroke-width:0.25;stroke-dasharray:none"><path
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-Single-Dir-Blob-3)"
+     d="m 50.182225,14.173051 c -0.32762,0 0.0184,0 -0.999999,0"
+     id="path14800-5-3-6-4"
+     sodipodi:nodetypes="cc"
+     inkscape:label="Pfeil" /><rect
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="rect4487-7-2-5-4-3"
+     width="0.875"
+     height="0.875"
+     x="15.02689"
+     y="-50.281586"
+     ry="0"
+     inkscape:label="Linie 73A"
+     transform="rotate(90)" /></g></g>
       <g
    id="g66"
    inkscape:label="Schwarzenbergplatz"
@@ -30077,16 +29810,16 @@
    id="g37127-12-4-3"
    inkscape:label="Quartier Belvedere"
    style="display:inline;fill:none;stroke:#1a1918;stroke-opacity:1"
-   transform="matrix(0,1,1,0,33.902081,40.684292)">
+   transform="matrix(0,1,1,0,34.532412,34.564616)">
         <path
    style="fill:none;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:0.25, 0.25;stroke-dashoffset:0.4;stroke-opacity:1;paint-order:normal"
-   d="m 52.815707,25.597919 1.06066,1.06066 h 1.43934"
+   d="m 56.435407,27.556667 1.06066,1.06066 h 1.43934"
    id="path17066-0-3-3-0-7"
    sodipodi:nodetypes="cc"
    inkscape:label="Con" />
         <path
    style="fill:#000000;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-Single-Dir-Blob)"
-   d="m 53.815708,24.347918 c -0.32762,0 0.0184,0 -1,0"
+   d="m 57.435408,26.306666 c -0.32762,0 0.0184,0 -1,0"
    id="path14800-5-3-6-2-1-2-1"
    sodipodi:nodetypes="cc"
    inkscape:label="Pfeil" />
@@ -30095,18 +29828,18 @@
    id="rect4487-7-2-5-4-8-9-5-4"
    width="0.875"
    height="0.875"
-   x="25.160419"
-   y="52.378208"
+   x="27.119167"
+   y="55.99791"
    ry="0"
    transform="matrix(0,1,1,0,0,0)"
    inkscape:label="Karl-Popper-Straße" />
         <rect
    style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
    id="rect4487-7-7-1-6-0-0-1-2-0-4-6-7-4-6-4-1-9"
-   width="4.3499999"
+   width="7.8309999"
    height="1.5"
-   x="-23.29472"
-   y="57.277752"
+   x="-28.39411"
+   y="61.159359"
    ry="0.74999684"
    inkscape:label="Quartier Belvedere"
    transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
@@ -30978,7 +30711,7 @@
    rx="0.625"
    transform="rotate(90)" />
       <rect
-   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+   style="display:none;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
    id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-9-5"
    width="2.25"
    height="1.25"
@@ -31081,6 +30814,33 @@
    height="1.25"
    x="78.375"
    y="208.375"
+   ry="0.625"
+   inkscape:label="Zentralfriedhof-Tor1"
+   rx="0.625" /><rect
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-9-2-8-6"
+   width="2.25"
+   height="1.25"
+   x="63.37524"
+   y="71.375"
+   ry="0.625"
+   inkscape:label="Zentralfriedhof-Tor1"
+   rx="0.625" /><rect
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-9-2-8-69"
+   width="2.25"
+   height="1.25"
+   x="63.375191"
+   y="76.375"
+   ry="0.625"
+   inkscape:label="Zentralfriedhof-Tor1"
+   rx="0.625" /><rect
+   style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#1a1918;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+   id="rect4487-7-7-1-6-0-0-1-2-0-4-4-9-2-2-8-6-4-9-2-8-61"
+   width="2.25"
+   height="1.25"
+   x="63.375134"
+   y="81.424606"
    ry="0.625"
    inkscape:label="Zentralfriedhof-Tor1"
    rx="0.625" />
@@ -31368,8 +31128,8 @@
    id="rect4487-7-7-1-6-0-0-1-2-0-4-6-7-4-6-3-5-6-6-2-5-8-2-1"
    width="1.5"
    height="1.5"
-   x="-43.75"
-   y="-77.75"
+   x="-43.750015"
+   y="-73.525513"
    ry="0.74999684"
    inkscape:label="Taubstummengasse"
    transform="scale(-1)"
@@ -31696,27 +31456,9 @@
    cy="112.54778"
    inkscape:label="Wildgansplatz"
    r="0.69999999" />
-      <circle
-   style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-dasharray:none"
-   id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-8-0-3-6-0-4-8-4-5"
-   cx="64"
-   cy="82.049606"
-   inkscape:label="Schloss Belvedere"
-   r="0.69999999" />
-      <circle
-   style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-dasharray:none"
-   id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-8-0-3-6-0-4-8-4-7"
-   cx="64"
-   cy="77"
-   inkscape:label="Plößlgasse"
-   r="0.69999999" />
-      <circle
-   style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-dasharray:none"
-   id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-8-0-3-6-0-4-8-4-71"
-   cx="64"
-   cy="72"
-   inkscape:label="Gußhausstraße"
-   r="0.69999999" />
+      
+      
+      
       <circle
    style="display:inline;fill:#bf0808;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-dasharray:none"
    id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-8-0-3-6-0-4-8-4-71-7"
@@ -31803,15 +31545,15 @@
    id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-5-6-8-5-1-0-2-9"
    inkscape:label="Momsengasse"
    sodipodi:type="arc"
-   sodipodi:cx="-59.400002"
-   sodipodi:cy="-90"
+   sodipodi:cx="19.762594"
+   sodipodi:cy="-104.71236"
    sodipodi:rx="0.69999999"
    sodipodi:ry="0.69999999"
    sodipodi:start="1.5707963"
    sodipodi:end="4.712389"
    sodipodi:arc-type="slice"
-   d="m -59.400002,-89.3 a 0.69999999,0.69999999 0 0 1 -0.606217,-0.35 0.69999999,0.69999999 0 0 1 0,-0.7 0.69999999,0.69999999 0 0 1 0.606217,-0.35 v 0.7 z"
-   transform="scale(-1)" />
+   d="m 19.762594,-104.01236 a 0.69999999,0.69999999 0 0 1 -0.606218,-0.35 0.69999999,0.69999999 0 0 1 0,-0.7 0.69999999,0.69999999 0 0 1 0.606218,-0.35 v 0.7 z"
+   transform="rotate(135)" />
       <path
    style="display:inline;fill:#0a295c;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-dasharray:none"
    id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-5-6-8-5-1-0-2-9-4"
@@ -31830,14 +31572,14 @@
    id="path1017-4-0-5-8-70-7-3-9-7-95-5-9-33-1-7-4-2-8-2-5-8-4-5-6-8-5-1-0-2-9-2"
    inkscape:label="Argentinierstraße"
    sodipodi:type="arc"
-   sodipodi:cx="88"
-   sodipodi:cy="-47.999725"
+   sodipodi:cx="85.996559"
+   sodipodi:cy="-46.428761"
    sodipodi:rx="0.69999999"
    sodipodi:ry="0.69999999"
    sodipodi:start="1.5707963"
    sodipodi:end="4.712389"
    sodipodi:arc-type="slice"
-   d="m 88,-47.299725 a 0.69999999,0.69999999 0 0 1 -0.606218,-0.35 0.69999999,0.69999999 0 0 1 0,-0.7 0.69999999,0.69999999 0 0 1 0.606218,-0.35 v 0.7 z"
+   d="m 85.996559,-45.728761 a 0.69999999,0.69999999 0 0 1 -0.606218,-0.35 0.69999999,0.69999999 0 0 1 0,-0.7 0.69999999,0.69999999 0 0 1 0.606218,-0.35 v 0.7 z"
    transform="rotate(90)" />
       <path
    style="display:inline;fill:#0a295c;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-dasharray:none"
@@ -33393,51 +33135,51 @@
      id="tspan149-5">Stefan-Fadinger-Platz</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="38.452267"
-   y="39.359165"
+   x="32.912342"
+   y="41.359131"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-7-9-2-2-1"
    inkscape:label="Prater, Hauptallee (1-Oper)"
    transform="scale(1.000014,0.999986)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="38.452267"
-     y="39.359165"
+     x="32.912342"
+     y="41.359131"
      id="tspan149-5-7">Prater, Hauptallee</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="38.498127"
-   y="41.862049"
+   x="32.958202"
+   y="43.862015"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-7-9-2-2-1-5"
    inkscape:label="Dornbach (2)"
    transform="scale(1.000014,0.999986)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="38.498127"
-     y="41.862049"
+     x="32.958202"
+     y="43.862015"
      id="tspan149-5-7-6">Dornbach</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="38.448738"
-   y="43.959641"
+   x="32.908813"
+   y="45.959606"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-7-9-2-2-1-5-0"
    inkscape:label="Schottenring (71)"
    transform="scale(1.000014,0.999986)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="38.448738"
-     y="43.959641"
+     x="32.908813"
+     y="45.959606"
      id="tspan149-5-7-6-8">Schottenring</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="38.448738"
-   y="46.26408"
+   x="32.908813"
+   y="48.264046"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-7-9-2-2-1-5-0-9"
    inkscape:label="Nußdorf, Beethovengang (D)"
    transform="scale(1.000014,0.999986)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76391px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="38.448738"
-     y="46.26408"
+     x="32.908813"
+     y="48.264046"
      id="tspan149-5-7-6-8-5">Nußdorf, Beethovengang</tspan></text>
       <text
    xml:space="preserve"
@@ -33548,19 +33290,19 @@
      id="tspan97-4-27-5-7-0">Meidling</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="15.288913"
-   y="93.559418"
+   x="16.663843"
+   y="89.159416"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-9-6-2-2"
    inkscape:label="Burggasse, Stadthalle (18)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="15.288913"
-     y="93.559418"
+     x="16.663843"
+     y="89.159416"
      id="tspan97-4-27-5-7-0-93">Burggasse,</tspan><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="15.747524"
-     y="95.34095"
+     x="17.122456"
+     y="90.940948"
      id="tspan183">Stadthalle  </tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
@@ -33581,18 +33323,18 @@
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
    x="14.288621"
-   y="87.472229"
+   y="82.544373"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-9-6-2-2-6"
    inkscape:label="Alser Straße, Skodagasse (13A)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
      x="14.28862"
-     y="87.472229"
+     y="82.544373"
      id="tspan183-6">Alser Straße,</tspan><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
      x="14.288621"
-     y="89.253761"
+     y="84.325905"
      id="tspan189">Skodagasse</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
@@ -33612,32 +33354,27 @@
      id="tspan207">Anschützgasse</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76392px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="15.293947"
-   y="76.150635"
+   x="16.663937"
+   y="93.142097"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-9-6-2-2-6-6"
    inkscape:label="Stefan-Fadinger-Platz (1-Karlsplatz)"
    transform="scale(1.0000165,0.9999835)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76392px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="15.293947"
-     y="76.150635"
-     id="tspan198">Stefan-</tspan><tspan
-     sodipodi:role="line"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76392px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="15.293947"
-     y="77.932198"
-     id="tspan201">Fadinger-Pl.</tspan></text><text
+     x="16.663937"
+     y="93.142097"
+     id="tspan201">St.-Fadinger-Pl.</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76392px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="16.938559"
-   y="72.553719"
+   x="16.660208"
+   y="95.542534"
    id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-6-5-1-5-8-0-7-7-2-8-5-4-5-6-6-7-9-6-2-2-6-6-8"
    inkscape:label="WLB_Baden"
    transform="scale(1.0000165,0.9999835)"><tspan
      sodipodi:role="line"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76392px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="16.938559"
-     y="72.553719"
+     x="16.660208"
+     y="95.542534"
      id="tspan201-0">Baden</tspan></text><path
    style="display:inline;fill:#bf0808;fill-opacity:1;stroke:#bf0808;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow-7-4-9-5-9-2);paint-order:stroke markers fill"
    d="M 22.893351,143.49966 H 22.442733"
@@ -34128,15 +33865,15 @@
      id="tspan119">Belvedere</tspan></text>
     <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:none;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
    x="64.784431"
    y="94.168037"
    id="text65-1-0-3-9-0-8-6-8-0-0-8-8-4"
    inkscape:label="Fasangasse"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="64.784431"
-     y="94.168037"
+     x="0"
+     y="0"
      id="tspan119-5">Fasang.</tspan></text>
     <text
    xml:space="preserve"
@@ -34177,50 +33914,76 @@
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="62.923119"
-   y="82.576813"
+   x="62.829575"
+   y="81.664757"
    id="text65-1-0-3-9-0-8-6-8-0-0-8-8-4-9-0-3-1"
    inkscape:label="Schloss Belvedere"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="62.923119"
-     y="82.576813"
-     id="tspan119-5-8-7-7-4">Schloss Belvedere</tspan></text>
+     x="62.829575"
+     y="81.664757"
+     id="tspan119-5-8-7-7-4">Schloss</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="62.829575"
+     y="83.446289"
+     id="tspan205">Belvedere</tspan></text>
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="42.099998"
-   y="86.553902"
+   x="37.81218"
+   y="91.538734"
+   id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-4-0-2-1-6-5"
+   inkscape:label="Südtiroler Platz, Hauptbahnhof"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="37.81218"
+     y="91.538734"
+     id="tspan165">Südtiroler Pl.,</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="37.81218"
+     y="93.320267"
+     id="tspan162">Hauptbhf.</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
+   x="46.792416"
+   y="83.14061"
    id="text65-1-0-3-9-0-8-6-8-0-0-8-8-4-9-0-3-1-4"
    inkscape:label="Argentinierstraße"><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="42.099998"
-     y="86.553902"
-     id="tspan119-5-8-7-7-4-9">Argentinierstr.</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="46.792416"
+     y="83.14061"
+     id="tspan119-5-8-7-7-4-9">Argen-</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="46.792416"
+     y="84.922142"
+     id="tspan193">tinierstr.</tspan></text>
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="39.177021"
-   y="86.626678"
+   x="37.388733"
+   y="86.066551"
    id="text65-1-0-3-9-0-8-6-8-0-0-8-8-4-9-0-3-1-4-3"
    inkscape:label="Kolschitzkygasse"><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="39.177021"
-     y="86.626678"
+     x="37.388733"
+     y="86.066551"
      id="tspan119-5-8-7-7-4-9-7"
      sodipodi:role="line">Kolschitzkyg.</tspan></text>
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="44.472374"
-   y="94.095703"
+   x="47.191975"
+   y="91.61628"
    id="text65-1-0-3-9-0-8-6-8-0-0-8-8-4-9-0-3-1-6"
    inkscape:label="Karl-Propper-Straße"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="44.472374"
-     y="94.095703"
+     x="47.191975"
+     y="91.61628"
      id="tspan119-5-8-7-7-4-3">Karl-Popper-Str.</tspan></text>
     <text
    xml:space="preserve"
@@ -34247,14 +34010,14 @@
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="59.303474"
-   y="90.5"
+   x="60.198067"
+   y="88.930099"
    id="text65-1-0-3-9-0-8-6-8-0-0-8-8-4-9-0-3-1-6-4"
    inkscape:label="Momsengasse"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="59.303474"
-     y="90.5"
+     x="60.198067"
+     y="88.930099"
      id="tspan119-5-8-7-7-4-3-1">Mommseng.</tspan></text>
     <text
    xml:space="preserve"
@@ -35912,7 +35675,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
      x="118.5"
      y="117.75"
-     id="tspan102-9-8-8">Erdbergerstr.,</tspan><tspan
+     id="tspan102-9-8-8">Erdbergstr.,</tspan><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
      x="118.5"
@@ -36751,23 +36514,7 @@
      x="58.266693"
      y="101.97209"
      id="tspan178">Belvedere</tspan></text>
-    <text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="37.795643"
-   y="91.868202"
-   id="text65-1-0-3-9-0-8-6-8-0-0-3-5-0-5-4-0-2-1-6-5"
-   inkscape:label="Südtiroler Platz, Hauptbahnhof"><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="37.795643"
-     y="91.868202"
-     id="tspan165">Südtiroler Pl.,</tspan><tspan
-     sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="37.795643"
-     y="93.649734"
-     id="tspan162">Hauptbhf.</tspan></text>
+    
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
@@ -37031,49 +36778,54 @@
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="37.653778"
-   y="64.167664"
+   x="48.941116"
+   y="65.426559"
    id="text65-1-0-3-9-1-6-3"
    inkscape:label="Karlsplatz"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="37.653778"
-     y="64.167664"
+     x="48.941116"
+     y="65.426559"
      id="tspan68-1-2-7-8">Karlsplatz</tspan></text>
     <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="44.25"
-   y="75.5"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;text-anchor:end;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
+   x="41.693729"
+   y="71.422104"
    id="text65-1-0-3-9-1-6-3-5"
    inkscape:label="Taubstummengasse"><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="44.25"
-     y="75.5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="41.693729"
+     y="71.422104"
      id="tspan68-1-2-7-8-8">Taub-</tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="44.25"
-     y="77.281532"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="41.693729"
+     y="73.203636"
      id="tspan88">stummen-</tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="44.25"
-     y="79.063057"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:end;text-anchor:end;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="41.693729"
+     y="74.985161"
      id="tspan94">gasse</tspan></text>
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;text-anchor:start;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
-   x="53.647694"
-   y="50.957558"
+   x="47.772064"
+   y="47.887543"
    id="text65-1-0-3-9-1-6-3-9-2"
    inkscape:label="Oper, Karlsplatz"><tspan
      sodipodi:role="line"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
-     x="53.647694"
-     y="50.957558"
-     id="tspan68-1-2-7-8-0-0">Oper, Karlsplatz</tspan></text>
+     x="47.772064"
+     y="47.887543"
+     id="tspan68-1-2-7-8-0-0">Oper, </tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;text-anchor:start;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-opacity:1;paint-order:stroke markers fill"
+     x="47.772064"
+     y="49.669071"
+     id="tspan277">Karlsplatz</tspan></text>
     <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1.01;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;text-anchor:middle;display:inline;fill:#1a1918;fill-opacity:1;stroke:#ffffff;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:1.6063;stroke-opacity:1;paint-order:stroke markers fill"
