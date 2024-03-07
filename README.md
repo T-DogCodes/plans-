@@ -19,4 +19,4 @@ Dabei sind alle Linien im Bezirk, sowie darüber hinausgehend relevante Verbindu
 
 ## Vorschaubild
 
-![image](v24.02/Plan_3_11_Landstraße_Simmering.V24.02.1.png)
+![image](v24.02/Plan_3_11_Landstraße_Simmering.V24.02.2.png)
